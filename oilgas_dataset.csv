@@ -1,0 +1,2051 @@
+State,County,FIPS Code,Commodity,Volume
+Louisiana,Cook,06037,Crude Oil,3360.2209938828987
+Texas,Jefferson,22051,Crude Oil,7729.368442230767
+California,Cook,48029,Condensate,4485.820355
+Texas,,48029,Crude Oil,6450.440910251506
+Louisiana,Harris,06037,Crude Oil,9027.279954030553
+,Harris,,Condensate,5075.558076707838
+,,48029,Condensate,2015.4974282514124
+Alaska,Jefferson,,Condensate,11607.67031873999
+California,Jefferson,02090,Condensate,13572.124672942404
+Texas,Unknown,22051,Natural Gas,3614.2700524137354
+California,,02090,Condensate,1035.6879319389186
+Alaska,Jefferson,06037,Crude Oil,7036.618466765851
+Alaska,Unknown,,Natural Gas,5947.423499476214
+Texas,Cook,22051,Crude Oil,13711.355960555888
+Texas,Unknown,,Condensate,4059.2099035669426
+,,02090,Natural Gas,6329.242708860397
+Texas,Harris,22051,Condensate,7304.860540782919
+Louisiana,Harris,48029,Condensate,
+California,Jefferson,,Crude Oil,11700.348658308047
+Alaska,Harris,22051,Crude Oil,12573.912139488404
+Louisiana,Jefferson,22051,Condensate,-69.56
+,,22051,Crude Oil,731.96
+Louisiana,,22051,Natural Gas,
+California,Jefferson,48029,Condensate,1079.8
+California,Jefferson,48029,Crude Oil,796.01
+,,06037,Crude Oil,1603.06
+Alaska,Cook,06037,Crude Oil,733.28
+Texas,Jefferson,48029,Natural Gas,1789.54
+,Unknown,02090,Natural Gas,1608.48
+Texas,,48029,Natural Gas,716.99
+California,Jefferson,22051,Natural Gas,1468.05
+Texas,Unknown,,Crude Oil,
+Louisiana,Unknown,22051,Natural Gas,1165.61
+,,,Condensate,1122.7
+,Unknown,,Natural Gas,825.62
+Alaska,,48029,Condensate,
+Alaska,Unknown,06037,Condensate,-235.78
+Texas,,02090,Natural Gas,707.05
+Texas,Cook,48029,Crude Oil,589.26
+Louisiana,Unknown,22051,Crude Oil,
+Alaska,Harris,02090,Crude Oil,1568.24
+Alaska,Jefferson,06037,Condensate,331.46
+Texas,Cook,48029,Natural Gas,854.7
+Texas,Jefferson,22051,Natural Gas,409.36
+Louisiana,Jefferson,02090,Condensate,1321.33
+,Harris,48029,Condensate,1207.78
+California,Cook,02090,Natural Gas,-494.7
+Louisiana,,48029,Crude Oil,379.7
+,,22051,Condensate,1196.56
+Texas,Harris,06037,Natural Gas,1521.92
+Alaska,Unknown,02090,Natural Gas,388.91
+,Harris,02090,Crude Oil,993.79
+Louisiana,Jefferson,,Condensate,64.01
+,Cook,,Natural Gas,1112.21
+California,Cook,,Condensate,776.2
+Alaska,,48029,Natural Gas,496.38
+Alaska,,22051,Crude Oil,1242.11
+,,06037,Crude Oil,1650.47
+Alaska,Cook,06037,Natural Gas,-86.88
+California,Cook,,Natural Gas,1246.12
+Texas,,22051,Natural Gas,1108.79
+,Cook,,Condensate,1048.96
+Texas,Jefferson,48029,Crude Oil,571.13
+,Cook,22051,Natural Gas,776.4
+,Cook,48029,Natural Gas,1064.92
+Texas,Unknown,06037,Natural Gas,510.12
+,Unknown,22051,Condensate,450.67
+,,48029,Natural Gas,788.64
+Texas,,48029,Natural Gas,1148.28
+,Cook,22051,Condensate,1925.53
+,Jefferson,,Condensate,
+Texas,,48029,Condensate,921.08
+Alaska,,48029,Crude Oil,1095.64
+California,,48029,Condensate,2102.76
+Alaska,Cook,,Condensate,305.19
+Texas,Jefferson,48029,Condensate,-64.66
+,,48029,Natural Gas,1377.03
+Louisiana,,22051,Natural Gas,601.84
+California,Jefferson,,Natural Gas,1177.44
+California,Harris,06037,Natural Gas,1358.02
+Texas,Cook,22051,Crude Oil,1199.28
+California,,,Natural Gas,1367
+Texas,Jefferson,06037,Crude Oil,1786.8
+Alaska,Harris,22051,Natural Gas,636.45
+Texas,Unknown,22051,Crude Oil,1030.58
+,,48029,Crude Oil,99.25
+,Jefferson,48029,Crude Oil,203.02
+,Jefferson,48029,Natural Gas,894.84
+Alaska,,,Natural Gas,-127.31
+Texas,Jefferson,02090,Crude Oil,1642.3
+Texas,Harris,48029,Crude Oil,1646.21
+Alaska,Jefferson,48029,Crude Oil,523.06
+,Harris,,Crude Oil,750.19
+Texas,Unknown,22051,Crude Oil,365.93
+Louisiana,Unknown,06037,Crude Oil,1310.07
+,Jefferson,06037,Crude Oil,925.9
+Texas,Cook,48029,Condensate,1322.52
+California,Harris,22051,Condensate,584.74
+,Unknown,48029,Condensate,783.98
+Texas,,02090,Condensate,1744.2
+,Cook,48029,Condensate,1127.17
+Louisiana,Unknown,22051,Condensate,1254.24
+Alaska,,48029,Natural Gas,980.03
+California,Unknown,22051,Crude Oil,1450.35
+California,,02090,Condensate,1612.19
+,Unknown,06037,Condensate,606.26
+California,Cook,02090,Natural Gas,46.86
+Texas,,,Crude Oil,1481.34
+California,Harris,22051,Condensate,1254.99
+Alaska,Jefferson,,Crude Oil,913.41
+Texas,Cook,06037,Condensate,1182.95
+,,,Natural Gas,149.91
+California,,48029,Condensate,1301.74
+,,22051,Crude Oil,2009.04
+,Cook,06037,Crude Oil,1230.03
+California,Jefferson,48029,Natural Gas,-560.27
+Texas,Harris,22051,Crude Oil,591.15
+,Harris,02090,Crude Oil,930.37
+,Cook,22051,Natural Gas,1274.42
+Alaska,Jefferson,,Condensate,1357.12
+,Harris,,Crude Oil,780.53
+,Cook,22051,Natural Gas,1274.42
+Louisiana,Cook,22051,Condensate,939.75
+,,06037,Condensate,851.47
+Texas,,06037,Natural Gas,1276.5
+California,Cook,22051,Condensate,1503.79
+Alaska,Unknown,,Natural Gas,192.48
+Alaska,,02090,Crude Oil,1308.21
+Alaska,Cook,22051,Natural Gas,833.03
+Louisiana,Cook,22051,Condensate,951.69
+Texas,Jefferson,02090,Natural Gas,399.21
+Louisiana,,02090,Condensate,993.33
+,Harris,48029,Crude Oil,271.94
+Louisiana,,,Crude Oil,1637.49
+Louisiana,Cook,,Crude Oil,1541.18
+,Unknown,02090,Condensate,1047.25
+,Unknown,48029,Condensate,219.75
+Louisiana,Unknown,,Crude Oil,862.7
+Texas,Unknown,,Natural Gas,1550.33
+Alaska,Unknown,06037,Crude Oil,1128.79
+Texas,Cook,22051,Crude Oil,147.82
+Texas,Jefferson,48029,Condensate,671.79
+,Jefferson,48029,Natural Gas,
+,Harris,48029,Condensate,685.55
+,,,Condensate,806.38
+California,,,Condensate,1206.49
+Alaska,Cook,,Crude Oil,766.63
+Louisiana,Unknown,22051,Natural Gas,799.01
+Alaska,,,Condensate,923.95
+,Jefferson,22051,Crude Oil,83.22
+Alaska,,02090,Natural Gas,1407.88
+Texas,Cook,,Natural Gas,599.05
+California,,02090,Condensate,1048.18
+California,,02090,Crude Oil,890.18
+California,Unknown,48029,Crude Oil,808.7
+Louisiana,,06037,Natural Gas,830.08
+,,02090,Crude Oil,
+Texas,,,Natural Gas,1313.81
+Louisiana,,02090,Crude Oil,1542.41
+Texas,Jefferson,,Crude Oil,410.23
+Louisiana,Jefferson,06037,Natural Gas,2106.2
+California,Harris,02090,Condensate,1286.19
+Texas,,06037,Natural Gas,1279.67
+,Unknown,48029,Natural Gas,871.8
+Alaska,Jefferson,22051,Crude Oil,1018.24
+California,Unknown,,Crude Oil,1447.34
+Texas,Jefferson,06037,Crude Oil,1260.25
+Alaska,,48029,Natural Gas,1424.57
+,Jefferson,06037,Condensate,592.25
+,Unknown,22051,Condensate,
+California,Jefferson,22051,Condensate,100.79
+Texas,Cook,06037,Natural Gas,1642.22
+California,Jefferson,06037,Condensate,874.72
+Texas,,22051,Crude Oil,2275.59
+Texas,Jefferson,,Condensate,1053.27
+,Unknown,02090,Crude Oil,20.91
+,,02090,Crude Oil,651.35
+California,,06037,Crude Oil,80.61
+,Harris,06037,Condensate,1110.18
+Louisiana,Jefferson,,Natural Gas,565.58
+Texas,,,Crude Oil,1071.47
+Texas,Harris,02090,Condensate,1367.86
+Louisiana,,22051,Natural Gas,908.07
+Texas,Harris,06037,Crude Oil,393.97
+Alaska,,22051,Condensate,1113.25
+California,Jefferson,02090,Crude Oil,1917.1
+Texas,Unknown,22051,Condensate,7.17
+Louisiana,Jefferson,06037,Crude Oil,2102.09
+Texas,Cook,02090,Crude Oil,747.64
+Alaska,Harris,02090,Crude Oil,771.85
+Louisiana,Cook,06037,Natural Gas,1635.76
+,,,Crude Oil,1189.42
+Texas,,22051,Crude Oil,716.68
+,Unknown,02090,Natural Gas,500.5
+Texas,Jefferson,02090,Natural Gas,1016.13
+Alaska,Harris,48029,Natural Gas,438.63
+California,,22051,Natural Gas,1895.84
+Texas,Jefferson,48029,Condensate,516.81
+Alaska,,,Natural Gas,571.22
+California,Harris,06037,Crude Oil,1310.04
+Louisiana,Jefferson,48029,Natural Gas,754.49
+,,,Condensate,1122.7
+Texas,,,Crude Oil,1789.91
+Louisiana,,06037,Crude Oil,635.22
+California,Unknown,48029,Condensate,1309.36
+Texas,Jefferson,22051,Crude Oil,2393.02
+Louisiana,Unknown,,Natural Gas,1266.64
+,,06037,Condensate,806.12
+Louisiana,Cook,22051,Condensate,584.69
+Louisiana,Cook,02090,Natural Gas,-9.7
+Alaska,,48029,Crude Oil,769.92
+,Jefferson,22051,Crude Oil,307.79
+California,Unknown,02090,Natural Gas,1068.95
+Texas,Harris,06037,Condensate,979.87
+,Jefferson,,Crude Oil,1855.55
+Texas,Cook,,Natural Gas,599.05
+,Harris,,Crude Oil,5.09
+,,22051,Crude Oil,873.96
+,Jefferson,48029,Crude Oil,1066.39
+Alaska,Jefferson,22051,Condensate,479.92
+Alaska,Unknown,,Crude Oil,1707.32
+,Cook,48029,Crude Oil,839.95
+Alaska,Unknown,22051,Crude Oil,1351.66
+Texas,,06037,Crude Oil,2006.85
+Alaska,Harris,,Natural Gas,847.26
+,Harris,,Crude Oil,780.53
+California,Cook,06037,Natural Gas,613.84
+Texas,,48029,Natural Gas,1914.66
+Louisiana,,02090,Crude Oil,638.1
+Texas,Jefferson,02090,Condensate,261.77
+California,Harris,22051,Crude Oil,1022.44
+Texas,,,Crude Oil,1071.47
+California,Unknown,,Condensate,543.75
+Alaska,,,Natural Gas,818.61
+,Jefferson,06037,Condensate,880.92
+Louisiana,Harris,06037,Condensate,471.89
+Louisiana,Harris,,Natural Gas,1772.87
+,Unknown,06037,Condensate,102
+Louisiana,Unknown,02090,Natural Gas,458.13
+,Cook,,Natural Gas,1527.39
+,Cook,06037,Crude Oil,1867.22
+Alaska,Jefferson,06037,Condensate,860.04
+,Cook,02090,Crude Oil,1581.76
+,Cook,,Natural Gas,1485.4
+California,Unknown,02090,Crude Oil,439.59
+California,Cook,02090,Crude Oil,1376.87
+Louisiana,,02090,Condensate,
+,Unknown,,Crude Oil,-17.12
+Alaska,Jefferson,02090,Crude Oil,1327.06
+,Unknown,06037,Crude Oil,744.78
+Alaska,Harris,,Natural Gas,873.92
+Texas,Jefferson,,Condensate,1402.8
+Texas,Unknown,,Crude Oil,882.02
+Texas,Jefferson,,Natural Gas,1192.73
+California,Cook,02090,Condensate,966.14
+Louisiana,Jefferson,22051,Condensate,1249.98
+Alaska,Harris,48029,Natural Gas,1199.05
+California,Cook,48029,Natural Gas,1563.12
+California,,02090,Condensate,811.72
+California,,22051,Condensate,
+Texas,,06037,Condensate,1153.22
+Louisiana,Cook,,Natural Gas,559.29
+California,Harris,48029,Natural Gas,592.64
+Alaska,Unknown,06037,Condensate,1020.56
+California,Unknown,48029,Condensate,1131.26
+,Unknown,22051,Natural Gas,662.85
+,,06037,Crude Oil,1034.06
+Louisiana,Cook,48029,Condensate,111.59
+,Cook,,Crude Oil,1441.62
+Alaska,Unknown,06037,Condensate,1530.6
+California,,,Condensate,1348.07
+Louisiana,Harris,,Natural Gas,
+,Jefferson,48029,Crude Oil,314.18
+Louisiana,Harris,,Crude Oil,1042.98
+California,,48029,Crude Oil,2104.59
+Alaska,Unknown,,Natural Gas,133.27
+,Harris,22051,Condensate,1005.55
+Louisiana,Harris,02090,Condensate,1057.72
+Texas,Jefferson,,Condensate,1312.29
+Alaska,,06037,Condensate,1054.67
+Alaska,Unknown,06037,Condensate,1308.38
+Alaska,Unknown,,Condensate,-442.16
+,Unknown,,Condensate,784
+,Harris,02090,Crude Oil,-769.43
+,Harris,02090,Natural Gas,476.73
+California,Cook,48029,Crude Oil,1380.01
+California,Cook,02090,Natural Gas,1014.63
+California,Cook,02090,Natural Gas,869.91
+Texas,,48029,Condensate,801.89
+Texas,Jefferson,06037,Crude Oil,
+Texas,Unknown,06037,Natural Gas,1064.77
+Texas,Jefferson,,Crude Oil,860.14
+California,Unknown,,Crude Oil,213.19
+,Harris,22051,Natural Gas,636.82
+Louisiana,,48029,Natural Gas,1757.36
+,Cook,06037,Condensate,1116.59
+,,02090,Crude Oil,35.11
+California,,48029,Condensate,2102.76
+California,Unknown,,Crude Oil,1293.4
+Louisiana,Jefferson,,Crude Oil,1382.24
+,Harris,,Condensate,621.28
+Louisiana,Unknown,22051,Condensate,-184.35
+Texas,Unknown,48029,Condensate,
+Louisiana,Cook,48029,Crude Oil,1268.79
+,Unknown,02090,Crude Oil,147.18
+California,Cook,48029,Condensate,2430.57
+Texas,,06037,Crude Oil,269
+Texas,Cook,02090,Condensate,1320.08
+Louisiana,Unknown,02090,Condensate,1195.47
+Louisiana,Unknown,02090,Crude Oil,1333.44
+,Unknown,,Crude Oil,674.84
+Louisiana,,48029,Crude Oil,671.29
+California,,,Crude Oil,1219.53
+,Harris,,Crude Oil,350.18
+Louisiana,Unknown,48029,Crude Oil,354.48
+Louisiana,,22051,Natural Gas,460.89
+California,Harris,02090,Crude Oil,1328.6
+Louisiana,,48029,Crude Oil,789.2
+Louisiana,Unknown,48029,Crude Oil,1517.05
+Texas,,02090,Natural Gas,753.3
+,Cook,22051,Natural Gas,1779.09
+Texas,Jefferson,06037,Condensate,208.2
+Alaska,Cook,48029,Natural Gas,342.68
+Alaska,Harris,48029,Crude Oil,1012.4
+Texas,Harris,48029,Natural Gas,1604.47
+Texas,Jefferson,02090,Condensate,349.65
+,Harris,06037,Condensate,480.18
+Texas,Cook,,Crude Oil,1474.04
+Alaska,Cook,,Natural Gas,1013.63
+California,Jefferson,,Crude Oil,509.77
+California,,22051,Natural Gas,706.74
+,Cook,02090,Crude Oil,2035.01
+Alaska,Harris,48029,Condensate,861.99
+,Cook,48029,Crude Oil,1459.02
+Alaska,Cook,02090,Crude Oil,1215.67
+,Harris,,Condensate,1290.94
+Texas,Jefferson,48029,Condensate,530.52
+Alaska,Harris,,Natural Gas,804.54
+Alaska,Jefferson,06037,Condensate,1645.27
+,Harris,06037,Natural Gas,1069.42
+,,48029,Condensate,502.46
+Texas,Jefferson,48029,Natural Gas,1258.67
+Alaska,Harris,06037,Crude Oil,788.6
+Texas,,,Crude Oil,512.85
+Louisiana,Jefferson,,Crude Oil,980.38
+Louisiana,Cook,06037,Natural Gas,773.45
+Louisiana,Jefferson,22051,Natural Gas,1179.82
+,Cook,,Crude Oil,536.77
+California,Harris,22051,Condensate,502.35
+Louisiana,Unknown,,Condensate,34.57
+,Jefferson,,Crude Oil,1284.09
+California,Jefferson,06037,Natural Gas,
+Louisiana,Harris,06037,Natural Gas,1186.92
+Louisiana,Jefferson,06037,Natural Gas,1005.32
+Texas,Jefferson,,Natural Gas,1336.02
+Louisiana,,48029,Natural Gas,1917.41
+,,48029,Natural Gas,901.61
+Texas,Harris,48029,Natural Gas,623.05
+California,Cook,,Natural Gas,562.32
+Alaska,Unknown,06037,Condensate,1395.01
+,Cook,,Crude Oil,175.51
+,Cook,02090,Natural Gas,1325.11
+,,,Crude Oil,1332.51
+Texas,Harris,02090,Condensate,
+Louisiana,Jefferson,22051,Condensate,920.71
+,Harris,48029,Crude Oil,1027.63
+Louisiana,,22051,Crude Oil,1151.44
+California,Unknown,48029,Natural Gas,755.5
+Texas,Unknown,48029,Natural Gas,707.19
+Louisiana,Cook,22051,Crude Oil,654.03
+California,,,Natural Gas,1037.71
+,Cook,,Natural Gas,1584.08
+Texas,,48029,Natural Gas,1886.35
+California,Unknown,06037,Condensate,1075.62
+Alaska,Unknown,06037,Crude Oil,1496.67
+Louisiana,Harris,48029,Condensate,1188.52
+Louisiana,Harris,,Crude Oil,2124.72
+Alaska,Harris,02090,Condensate,1831.28
+Alaska,Jefferson,22051,Natural Gas,579.97
+Louisiana,Unknown,,Crude Oil,832.4
+Louisiana,Cook,,Crude Oil,223.05
+California,Jefferson,22051,Crude Oil,1102.26
+,Jefferson,02090,Natural Gas,1118.88
+Alaska,,02090,Condensate,1000.35
+California,Harris,48029,Crude Oil,1031.77
+California,Jefferson,,Natural Gas,1255.14
+Alaska,,06037,Condensate,1199.11
+Louisiana,Unknown,,Natural Gas,1075.46
+,Cook,06037,Natural Gas,1790.73
+,Cook,22051,Natural Gas,547.02
+Louisiana,Cook,02090,Condensate,720.96
+,Harris,48029,Condensate,1207.78
+,,22051,Condensate,844.33
+,Harris,02090,Condensate,1709.2
+California,Harris,,Natural Gas,480.72
+Alaska,Unknown,48029,Natural Gas,817.41
+Louisiana,Unknown,48029,Natural Gas,831.47
+Alaska,Cook,,Natural Gas,-120.42
+,Cook,22051,Natural Gas,1771.85
+Alaska,,48029,Condensate,1599.32
+California,,,Crude Oil,1225.73
+,Unknown,22051,Natural Gas,927.58
+Louisiana,,02090,Condensate,913.03
+Louisiana,Harris,02090,Condensate,1336.26
+,Cook,48029,Crude Oil,1376.7
+Texas,Jefferson,,Crude Oil,758.83
+,,,Crude Oil,1431.2
+Alaska,Cook,48029,Natural Gas,2045.26
+Louisiana,Unknown,02090,Natural Gas,882.02
+California,,,Natural Gas,616.31
+California,Harris,22051,Condensate,1087.27
+Louisiana,Harris,06037,Condensate,1343.31
+Louisiana,,48029,Natural Gas,1646.65
+Alaska,,48029,Condensate,294.37
+California,Jefferson,22051,Condensate,1024.66
+California,Unknown,,Natural Gas,328.26
+,Unknown,,Natural Gas,635.07
+Louisiana,Cook,,Natural Gas,1304.91
+,,06037,Condensate,
+,Jefferson,06037,Crude Oil,1026.61
+Alaska,,02090,Natural Gas,1130.24
+Louisiana,Jefferson,06037,Natural Gas,
+California,Jefferson,,Condensate,1116.43
+Louisiana,Harris,06037,Natural Gas,487.33
+Louisiana,,22051,Crude Oil,598.6
+California,,02090,Crude Oil,824.36
+California,Unknown,,Natural Gas,551.37
+California,Jefferson,22051,Crude Oil,1367.67
+,,,Natural Gas,220.96
+Alaska,,22051,Natural Gas,187.11
+California,Harris,06037,Natural Gas,1269.41
+Texas,,,Condensate,117.78
+Alaska,Harris,22051,Condensate,1214.59
+Texas,,02090,Condensate,155.44
+Alaska,Harris,48029,Crude Oil,1362.76
+Alaska,Harris,,Natural Gas,540.52
+Louisiana,Jefferson,22051,Crude Oil,1153.35
+Alaska,Cook,06037,Crude Oil,1139.18
+California,Unknown,48029,Natural Gas,129.82
+California,Jefferson,02090,Natural Gas,2.46
+,Cook,,Crude Oil,2036.89
+Texas,,06037,Crude Oil,1016.86
+Texas,,,Natural Gas,914.63
+,,06037,Condensate,1241.89
+Texas,Cook,02090,Condensate,550.92
+Texas,Unknown,,Condensate,301.89
+California,,02090,Crude Oil,156.39
+Texas,Harris,02090,Crude Oil,761.8
+Louisiana,Jefferson,,Natural Gas,972.77
+,Jefferson,22051,Natural Gas,1306.93
+California,,,Condensate,1028.56
+California,Unknown,22051,Condensate,807.48
+California,Unknown,06037,Crude Oil,1255.89
+Texas,,,Natural Gas,1316.06
+,,22051,Natural Gas,1060.66
+,Unknown,48029,Condensate,1396.67
+,Jefferson,,Condensate,1703.62
+,Cook,06037,Crude Oil,342.91
+,Harris,,Crude Oil,1800.25
+California,Jefferson,,Natural Gas,1104.03
+Texas,Harris,02090,Crude Oil,-134.75
+Alaska,Unknown,48029,Condensate,937.74
+,Harris,22051,Condensate,378.88
+Texas,,,Crude Oil,849.84
+Texas,Jefferson,02090,Crude Oil,213.04
+California,Harris,,Natural Gas,66
+Texas,,48029,Crude Oil,1252.61
+Texas,,,Crude Oil,1413.35
+Alaska,Jefferson,,Crude Oil,210.25
+,Unknown,02090,Condensate,1047.25
+Texas,Jefferson,,Condensate,881.95
+Texas,Harris,22051,Condensate,391.26
+,Unknown,22051,Natural Gas,577.84
+Texas,,02090,Natural Gas,
+California,Cook,48029,Condensate,1556.59
+Louisiana,Cook,48029,Condensate,236.48
+,Unknown,02090,Crude Oil,1672.16
+Louisiana,,02090,Condensate,
+Texas,,48029,Crude Oil,1763.71
+Texas,Cook,02090,Natural Gas,1028.8
+California,Cook,,Crude Oil,815.78
+Alaska,Jefferson,,Condensate,95.91
+Texas,Cook,48029,Condensate,895.34
+Alaska,Jefferson,48029,Natural Gas,1058.79
+Texas,Harris,02090,Crude Oil,-134.75
+California,Cook,02090,Natural Gas,
+Alaska,Harris,02090,Natural Gas,1070.65
+Alaska,Jefferson,22051,Condensate,1025.27
+Texas,Harris,02090,Condensate,837.35
+California,,,Crude Oil,437.67
+,Harris,,Crude Oil,1189.97
+Texas,,48029,Natural Gas,716.99
+,,,Natural Gas,
+Texas,Cook,,Condensate,1102.33
+California,Jefferson,02090,Natural Gas,1221.87
+Louisiana,Jefferson,,Crude Oil,860.56
+Texas,Jefferson,,Natural Gas,1325.64
+,,22051,Crude Oil,
+Texas,,,Condensate,2027.43
+Alaska,Cook,,Natural Gas,370.79
+Texas,,06037,Condensate,799.56
+Texas,Cook,,Crude Oil,1110.75
+Louisiana,,48029,Crude Oil,184.72
+Alaska,Unknown,22051,Natural Gas,703.12
+Alaska,Jefferson,02090,Natural Gas,837.13
+Louisiana,,,Condensate,362.74
+Texas,Cook,06037,Natural Gas,476.96
+California,Jefferson,06037,Condensate,987.58
+,,02090,Crude Oil,1144.43
+California,Harris,22051,Natural Gas,1004.29
+Alaska,Cook,48029,Condensate,898.41
+,Harris,,Crude Oil,486.44
+Texas,Harris,48029,Condensate,786.65
+California,Unknown,,Crude Oil,565.28
+,,48029,Condensate,787.95
+Alaska,,22051,Crude Oil,1301.48
+,Harris,,Crude Oil,364.81
+,Cook,06037,Natural Gas,1833.51
+California,Unknown,06037,Condensate,1054.21
+Texas,Harris,06037,Condensate,1374.51
+,,48029,Natural Gas,788.64
+Alaska,,48029,Natural Gas,1228.25
+Louisiana,Unknown,02090,Natural Gas,1728.16
+,Harris,48029,Crude Oil,1412.23
+Texas,Harris,48029,Condensate,1145.28
+Texas,Jefferson,06037,Natural Gas,1809.91
+Alaska,Harris,06037,Crude Oil,1321.01
+,,22051,Condensate,675.85
+Alaska,Jefferson,22051,Crude Oil,492.19
+Alaska,Unknown,22051,Crude Oil,1149.77
+California,,,Natural Gas,1499.86
+,,22051,Natural Gas,1031.13
+,Cook,22051,Natural Gas,1604
+Texas,,06037,Crude Oil,
+Texas,Jefferson,48029,Natural Gas,1072.45
+Alaska,Harris,22051,Condensate,-36.95
+Alaska,,06037,Condensate,1388.99
+California,Cook,06037,Crude Oil,940.39
+Texas,Unknown,02090,Natural Gas,1250.59
+,Harris,02090,Condensate,962.51
+California,Cook,22051,Condensate,1159.89
+Texas,Unknown,02090,Condensate,1043.22
+,Jefferson,48029,Natural Gas,1246.76
+Alaska,,22051,Natural Gas,1220.26
+California,Harris,22051,Condensate,1169.59
+,Unknown,06037,Condensate,1089.54
+Alaska,Unknown,02090,Condensate,1116.24
+California,Cook,22051,Natural Gas,2119.18
+California,Harris,22051,Crude Oil,1447.76
+California,Unknown,,Condensate,1555.81
+California,,06037,Condensate,1217.54
+,Harris,48029,Natural Gas,787.55
+Louisiana,,02090,Crude Oil,885.95
+Louisiana,,02090,Condensate,962.29
+Louisiana,,02090,Natural Gas,1784
+,Jefferson,,Crude Oil,1340.19
+Louisiana,Harris,22051,Crude Oil,
+California,Harris,48029,Crude Oil,1009.6
+California,Cook,06037,Natural Gas,914.16
+Alaska,Jefferson,06037,Natural Gas,1741.15
+,Jefferson,,Natural Gas,1608.96
+,Harris,,Condensate,202.22
+Alaska,,48029,Condensate,171.81
+Louisiana,Cook,02090,Natural Gas,-39.82
+Alaska,Unknown,02090,Condensate,1399.17
+,Unknown,,Natural Gas,1142.41
+Alaska,Unknown,22051,Natural Gas,413.38
+Louisiana,Harris,06037,Crude Oil,951.07
+Texas,Cook,02090,Natural Gas,1606.18
+,,,Condensate,1107.61
+,,,Condensate,1950.56
+California,Unknown,,Condensate,1987.87
+California,Cook,06037,Crude Oil,505.8
+Alaska,Unknown,,Natural Gas,771.95
+,Harris,06037,Natural Gas,844.89
+,,06037,Condensate,671.39
+Louisiana,Jefferson,02090,Natural Gas,373.1
+Louisiana,Jefferson,,Crude Oil,1568.77
+Alaska,Harris,02090,Crude Oil,1245.96
+California,Unknown,48029,Crude Oil,1312.14
+Texas,,,Crude Oil,550.49
+Alaska,Harris,06037,Crude Oil,1321.01
+Louisiana,Jefferson,06037,Crude Oil,957.2
+California,Cook,,Condensate,724.64
+,,,Natural Gas,1441.06
+Alaska,Jefferson,,Natural Gas,978.24
+Texas,Jefferson,,Natural Gas,1685.74
+Alaska,Harris,48029,Crude Oil,1012.4
+,Cook,22051,Condensate,374.84
+Louisiana,Cook,02090,Condensate,1038.38
+Alaska,Cook,22051,Condensate,1070
+,Harris,48029,Condensate,1343.53
+Texas,Cook,22051,Condensate,692.13
+California,,22051,Crude Oil,489.47
+California,Harris,02090,Crude Oil,1209.29
+California,Cook,,Crude Oil,997.45
+Alaska,Unknown,,Condensate,626.54
+Texas,Unknown,06037,Condensate,1380.84
+Texas,Cook,02090,Condensate,1445.01
+Alaska,,02090,Condensate,925.53
+,Unknown,02090,Natural Gas,1281.13
+Texas,Cook,02090,Condensate,898.69
+,Unknown,,Condensate,195.24
+Texas,,22051,Condensate,689.43
+California,Cook,06037,Condensate,-337.84
+Alaska,Harris,02090,Natural Gas,1459.87
+California,Cook,48029,Crude Oil,1395.36
+California,Unknown,,Condensate,1561.53
+Alaska,Jefferson,02090,Crude Oil,226.29
+Alaska,Harris,,Natural Gas,1774.67
+Louisiana,Harris,48029,Crude Oil,1240
+California,,06037,Natural Gas,-273.37
+Louisiana,Cook,06037,Condensate,1364.76
+Louisiana,,48029,Condensate,381.5
+California,,06037,Condensate,50.74
+Louisiana,Cook,,Natural Gas,871.4
+Texas,,22051,Condensate,982.67
+Texas,Cook,,Condensate,928.67
+Louisiana,Unknown,02090,Natural Gas,737.59
+,,06037,Natural Gas,1061.37
+California,,02090,Natural Gas,873.54
+Louisiana,Jefferson,02090,Crude Oil,1400.38
+,,22051,Natural Gas,573.62
+California,Cook,06037,Condensate,868.13
+Texas,Cook,02090,Natural Gas,1333.02
+California,Cook,06037,Crude Oil,
+California,,02090,Natural Gas,809.3
+California,Unknown,,Condensate,484.93
+California,Jefferson,02090,Natural Gas,640.98
+Louisiana,Harris,06037,Condensate,798.81
+Alaska,Cook,02090,Natural Gas,725.8
+Louisiana,Unknown,02090,Natural Gas,1291.27
+Texas,,02090,Crude Oil,30.3
+Louisiana,Jefferson,06037,Condensate,706.42
+Alaska,,02090,Condensate,589.57
+,Unknown,02090,Natural Gas,361.83
+Texas,,48029,Crude Oil,1306.59
+,Jefferson,48029,Natural Gas,546.03
+,,,Condensate,1107.61
+California,Jefferson,02090,Natural Gas,1454.41
+Texas,Unknown,22051,Condensate,1199.22
+Louisiana,Unknown,48029,Crude Oil,159.14
+Louisiana,,,Crude Oil,651.99
+California,Cook,,Natural Gas,1308.53
+California,Jefferson,22051,Condensate,
+,Unknown,06037,Crude Oil,923.85
+Louisiana,Harris,,Natural Gas,726.09
+Alaska,Jefferson,22051,Condensate,743.84
+Louisiana,Unknown,48029,Condensate,1036.53
+Louisiana,Cook,02090,Crude Oil,
+Texas,Cook,22051,Natural Gas,961.11
+,Harris,48029,Condensate,973.38
+Alaska,Jefferson,02090,Condensate,1365.14
+Louisiana,Unknown,06037,Condensate,2445.85
+California,Harris,02090,Natural Gas,1345.32
+Louisiana,Jefferson,48029,Crude Oil,910.51
+Texas,Unknown,48029,Condensate,
+Texas,Cook,22051,Condensate,534.56
+Alaska,Harris,22051,Natural Gas,986.7
+California,Harris,48029,Crude Oil,405.49
+Texas,Unknown,,Natural Gas,425.57
+,,06037,Natural Gas,576.89
+Texas,,22051,Natural Gas,992.66
+Louisiana,Unknown,,Crude Oil,352.65
+California,Harris,06037,Crude Oil,1702.86
+Texas,Jefferson,06037,Condensate,377.62
+,Unknown,,Condensate,
+Texas,Cook,22051,Crude Oil,1703.19
+Texas,,02090,Condensate,491.74
+,,02090,Condensate,1085.75
+Texas,,48029,Condensate,931.04
+Texas,,,Crude Oil,377.48
+,,02090,Natural Gas,309.11
+,,,Condensate,1017
+California,,02090,Natural Gas,1545.48
+Texas,Jefferson,22051,Natural Gas,1565.79
+Louisiana,,22051,Crude Oil,1203.45
+,Cook,,Crude Oil,1904.53
+Alaska,Harris,,Crude Oil,1325.86
+California,Jefferson,02090,Natural Gas,1657.82
+California,Jefferson,06037,Condensate,874.72
+California,Unknown,02090,Natural Gas,173.85
+Alaska,Cook,06037,Crude Oil,1102.21
+Texas,Cook,48029,Condensate,816.34
+Louisiana,Unknown,02090,Natural Gas,820.77
+Alaska,Unknown,06037,Natural Gas,71.26
+,,02090,Crude Oil,
+,Harris,,Crude Oil,511.88
+Texas,Harris,02090,Natural Gas,274.73
+California,Harris,02090,Natural Gas,414.25
+Alaska,Harris,22051,Condensate,1294.32
+Louisiana,,02090,Natural Gas,1217.83
+Texas,Unknown,,Condensate,1910.44
+Louisiana,,,Natural Gas,830.78
+,,06037,Condensate,549.25
+,Cook,02090,Natural Gas,510.08
+Louisiana,Cook,06037,Natural Gas,526.86
+Louisiana,Harris,,Crude Oil,774.66
+Alaska,Harris,,Crude Oil,582.64
+,,02090,Crude Oil,1200.73
+Texas,Cook,06037,Condensate,1091.9
+,Harris,48029,Natural Gas,1597.73
+Louisiana,Unknown,22051,Condensate,818.19
+,Jefferson,22051,Crude Oil,565.61
+Texas,,22051,Crude Oil,1486.92
+California,Harris,48029,Crude Oil,1311.95
+California,Jefferson,06037,Crude Oil,584.89
+Texas,Jefferson,22051,Crude Oil,907.06
+Louisiana,Jefferson,,Natural Gas,565.58
+California,Harris,22051,Crude Oil,771.75
+Alaska,Unknown,22051,Condensate,1430.98
+,Harris,06037,Condensate,998.89
+California,,06037,Crude Oil,946.74
+Texas,Jefferson,06037,Condensate,982.43
+Alaska,,48029,Natural Gas,1424.57
+Texas,Cook,22051,Condensate,1339.37
+,Unknown,02090,Natural Gas,828.47
+,Cook,02090,Natural Gas,1678.73
+,,02090,Natural Gas,1583.6
+California,Harris,02090,Natural Gas,1716.29
+Alaska,Jefferson,48029,Natural Gas,12.66
+Alaska,,48029,Crude Oil,1306.12
+California,Cook,,Crude Oil,1422.92
+California,Jefferson,,Natural Gas,1136.76
+Alaska,Harris,,Condensate,315.96
+Texas,Cook,,Natural Gas,1313.3
+California,Cook,48029,Natural Gas,1752.9
+Louisiana,Unknown,,Crude Oil,409.24
+Texas,Unknown,48029,Condensate,594.04
+Louisiana,Harris,22051,Condensate,612.77
+California,Jefferson,22051,Natural Gas,1223.22
+Alaska,Harris,06037,Natural Gas,194.42
+Texas,Jefferson,02090,Natural Gas,440.97
+Alaska,Jefferson,02090,Natural Gas,1222.55
+Louisiana,Jefferson,48029,Natural Gas,10.35
+Alaska,Jefferson,,Natural Gas,865.54
+Alaska,Unknown,,Condensate,796.67
+Texas,Jefferson,02090,Natural Gas,
+Alaska,Jefferson,48029,Natural Gas,
+Alaska,Unknown,48029,Condensate,1213.02
+Alaska,Unknown,02090,Natural Gas,777.78
+,Cook,06037,Condensate,605.58
+,Jefferson,02090,Crude Oil,1042.05
+Texas,,06037,Natural Gas,1391.98
+Texas,Harris,22051,Condensate,593.77
+Alaska,Jefferson,06037,Natural Gas,1238.41
+,,22051,Natural Gas,1147.99
+Louisiana,Jefferson,06037,Condensate,845.17
+Louisiana,Cook,,Natural Gas,314.72
+California,,22051,Condensate,948.67
+Louisiana,Unknown,22051,Crude Oil,740.11
+,,,Natural Gas,1438.68
+California,Jefferson,22051,Condensate,2049.37
+,Harris,02090,Crude Oil,1243.08
+Texas,Unknown,48029,Natural Gas,395.7
+,Cook,02090,Natural Gas,1134.36
+,Jefferson,48029,Natural Gas,752.35
+Louisiana,Unknown,,Condensate,1323.67
+Alaska,Jefferson,06037,Crude Oil,1469.36
+Alaska,Unknown,22051,Crude Oil,86.91
+California,Unknown,,Natural Gas,-114.39
+California,,,Condensate,113.71
+Alaska,Jefferson,,Condensate,
+Texas,Unknown,06037,Crude Oil,819.21
+California,Harris,,Condensate,1329.47
+Alaska,Harris,,Natural Gas,1307.06
+Louisiana,Jefferson,48029,Crude Oil,
+Louisiana,Jefferson,02090,Natural Gas,797.72
+,Harris,02090,Natural Gas,
+,Harris,,Natural Gas,1383.28
+,Unknown,,Condensate,935.99
+,Harris,,Crude Oil,
+,Jefferson,06037,Condensate,1684.31
+California,,02090,Natural Gas,777.53
+Louisiana,Cook,06037,Natural Gas,842.4
+Texas,Unknown,06037,Crude Oil,1138.5
+Texas,,48029,Crude Oil,655.63
+Alaska,Cook,02090,Natural Gas,1127.16
+Louisiana,Cook,06037,Crude Oil,1490.77
+Alaska,,06037,Natural Gas,1375.35
+Texas,Harris,,Crude Oil,1571.66
+Texas,Unknown,,Condensate,1591.96
+,Cook,06037,Natural Gas,365.65
+,Unknown,22051,Condensate,1327.25
+Texas,Jefferson,,Crude Oil,824.23
+Texas,Cook,06037,Crude Oil,887.69
+,Cook,48029,Condensate,1351.53
+Alaska,Harris,22051,Condensate,454.88
+Louisiana,Jefferson,48029,Natural Gas,775.45
+California,Cook,06037,Natural Gas,-202.53
+,,22051,Crude Oil,1526.5
+,Unknown,22051,Natural Gas,1215.65
+California,,48029,Condensate,
+,,06037,Natural Gas,1059.83
+California,Unknown,48029,Natural Gas,387.26
+California,Cook,06037,Crude Oil,
+Alaska,,06037,Crude Oil,-230.99
+Alaska,,48029,Natural Gas,980.03
+Texas,Cook,,Crude Oil,197.39
+,Cook,06037,Natural Gas,858.14
+California,Cook,22051,Condensate,188.77
+Alaska,Unknown,02090,Condensate,1142.94
+Alaska,,22051,Crude Oil,1067.53
+,,48029,Crude Oil,1996.93
+,Harris,,Crude Oil,182.21
+California,Jefferson,48029,Natural Gas,
+Louisiana,Harris,,Crude Oil,632.6
+,Unknown,48029,Natural Gas,662.46
+Louisiana,Cook,02090,Crude Oil,1454.11
+California,,,Natural Gas,150.72
+California,,,Condensate,383.19
+Louisiana,Harris,,Crude Oil,1154.92
+California,,06037,Condensate,1592.09
+Louisiana,Unknown,22051,Crude Oil,1495.88
+Alaska,Cook,06037,Natural Gas,737.82
+Alaska,Unknown,22051,Condensate,190.03
+Alaska,Harris,06037,Crude Oil,-202.27
+Louisiana,Jefferson,,Natural Gas,1192.14
+Louisiana,Jefferson,48029,Natural Gas,1179.77
+Alaska,,,Condensate,1219.33
+,Jefferson,48029,Natural Gas,822.62
+California,Harris,22051,Crude Oil,609.5
+Texas,Harris,02090,Natural Gas,944.49
+California,,22051,Crude Oil,1320.48
+,Jefferson,02090,Crude Oil,1342.33
+California,Harris,,Crude Oil,287.94
+,Cook,,Natural Gas,1283.21
+California,Jefferson,02090,Crude Oil,1241.66
+Louisiana,Unknown,22051,Condensate,548.66
+Louisiana,Harris,02090,Crude Oil,811.58
+,Cook,06037,Crude Oil,780.21
+,Cook,06037,Condensate,
+Louisiana,Harris,,Natural Gas,1719.41
+Alaska,Cook,02090,Natural Gas,531.78
+California,,22051,Natural Gas,1067.16
+California,Cook,06037,Natural Gas,1182.24
+California,Cook,02090,Crude Oil,303.68
+Alaska,Jefferson,,Condensate,771.8
+Texas,Harris,02090,Condensate,1506.72
+California,,48029,Crude Oil,2104.59
+Alaska,Harris,48029,Crude Oil,1702.08
+Louisiana,Jefferson,,Natural Gas,573.66
+Louisiana,,48029,Condensate,1147.78
+Texas,Harris,22051,Natural Gas,332
+Texas,Jefferson,,Crude Oil,932.24
+Alaska,Unknown,06037,Condensate,905.64
+,Unknown,22051,Natural Gas,1094.6
+California,Unknown,06037,Condensate,
+Texas,Cook,48029,Condensate,1529.39
+California,Harris,22051,Natural Gas,660.09
+California,Harris,06037,Natural Gas,
+Alaska,Unknown,,Natural Gas,1234.79
+,Unknown,48029,Condensate,609.08
+Alaska,Jefferson,02090,Condensate,1000.36
+Louisiana,Unknown,,Natural Gas,704.59
+Louisiana,,22051,Natural Gas,2544.94
+California,Harris,06037,Condensate,677.66
+Louisiana,Jefferson,06037,Crude Oil,1186.14
+,Unknown,22051,Crude Oil,1159.9
+Texas,Harris,,Crude Oil,1104.99
+,Cook,06037,Crude Oil,1244.05
+,Unknown,22051,Crude Oil,900.76
+California,Harris,06037,Natural Gas,1258.13
+Texas,Jefferson,,Crude Oil,664.34
+Texas,,02090,Condensate,1226.03
+,Cook,02090,Condensate,1175.7
+Louisiana,Harris,48029,Natural Gas,825.07
+,,48029,Natural Gas,699.74
+Alaska,Cook,06037,Natural Gas,761.07
+,Harris,,Natural Gas,792.41
+Alaska,,06037,Crude Oil,1956.36
+Alaska,Harris,06037,Condensate,933.24
+California,Jefferson,02090,Natural Gas,1599.67
+California,Harris,06037,Crude Oil,1663.81
+Texas,Harris,06037,Crude Oil,1329.41
+Texas,,,Crude Oil,1068.96
+California,Cook,06037,Crude Oil,
+,Unknown,48029,Condensate,607.56
+California,,02090,Crude Oil,1299.2
+Alaska,,22051,Condensate,210.32
+,Harris,,Natural Gas,891.16
+,,02090,Natural Gas,1440.46
+Louisiana,Unknown,22051,Crude Oil,1055.36
+Alaska,Unknown,02090,Crude Oil,1523.68
+Texas,Unknown,22051,Crude Oil,588.39
+California,,02090,Crude Oil,1619.97
+Alaska,Jefferson,48029,Crude Oil,523.06
+Texas,,48029,Crude Oil,723.02
+Louisiana,Cook,22051,Natural Gas,
+Alaska,Jefferson,06037,Crude Oil,
+Texas,Unknown,,Natural Gas,1140.1
+California,,,Condensate,993.93
+,Harris,02090,Natural Gas,949.22
+Louisiana,,,Crude Oil,1455.92
+California,Jefferson,06037,Natural Gas,1715.18
+Louisiana,Cook,22051,Crude Oil,981.84
+California,Harris,02090,Condensate,638.43
+Alaska,,02090,Condensate,1613.9
+Alaska,,,Condensate,2270.2
+,Unknown,06037,Condensate,1267.27
+Louisiana,Harris,02090,Condensate,1265.74
+California,Harris,,Natural Gas,1210.48
+Texas,,02090,Crude Oil,1306
+,Harris,,Condensate,
+,Unknown,06037,Crude Oil,636.53
+,,02090,Condensate,865.32
+Louisiana,Unknown,02090,Natural Gas,1657.55
+Texas,Jefferson,22051,Condensate,1696.33
+,Harris,02090,Condensate,468
+Louisiana,Cook,22051,Natural Gas,1703.62
+California,Harris,22051,Crude Oil,992.51
+,Unknown,22051,Condensate,1369.77
+California,Unknown,02090,Natural Gas,827.71
+Texas,Harris,,Natural Gas,1584.7
+California,Jefferson,02090,Condensate,1402.13
+California,Harris,22051,Crude Oil,665.62
+Texas,Cook,06037,Condensate,1052.63
+Louisiana,Harris,02090,Crude Oil,822.44
+Alaska,Unknown,06037,Condensate,312.39
+California,Harris,22051,Natural Gas,1110.45
+Alaska,Harris,,Crude Oil,-416.16
+,Unknown,,Crude Oil,1034.18
+Texas,Unknown,22051,Natural Gas,986.76
+Texas,Unknown,48029,Natural Gas,840.25
+Alaska,Cook,48029,Crude Oil,564.2
+Louisiana,,22051,Crude Oil,
+Texas,Jefferson,02090,Crude Oil,1156.5
+Alaska,,06037,Condensate,1264.39
+,Harris,48029,Crude Oil,1239.72
+California,Unknown,22051,Natural Gas,1168.47
+Alaska,Cook,06037,Natural Gas,885.6
+Alaska,,06037,Crude Oil,1028.29
+,Jefferson,48029,Crude Oil,1083.91
+,Jefferson,02090,Natural Gas,1669.01
+Louisiana,Cook,06037,Natural Gas,860.65
+Alaska,,48029,Condensate,408.08
+Alaska,Cook,06037,Condensate,800.75
+Alaska,Unknown,,Crude Oil,-203.12
+,Cook,,Natural Gas,1353.06
+Louisiana,Harris,,Natural Gas,-92.25
+,Jefferson,02090,Crude Oil,1799.21
+California,Harris,,Natural Gas,1120.06
+,Harris,22051,Crude Oil,551.93
+Texas,Cook,06037,Crude Oil,1628.54
+Louisiana,Jefferson,06037,Crude Oil,
+Alaska,Cook,02090,Natural Gas,546.19
+California,Harris,02090,Natural Gas,1393.51
+,Harris,48029,Condensate,1493.87
+,Unknown,22051,Natural Gas,763.36
+California,Unknown,06037,Condensate,38.84
+Texas,,02090,Natural Gas,1296.02
+Alaska,,48029,Crude Oil,1044.12
+California,Harris,06037,Condensate,287.41
+Alaska,,,Natural Gas,744.65
+Texas,,48029,Crude Oil,332.12
+,,06037,Crude Oil,1403.18
+Alaska,Harris,22051,Condensate,1179.1
+California,Cook,,Natural Gas,1368.81
+Alaska,Cook,02090,Condensate,
+Alaska,Unknown,,Condensate,552
+Louisiana,Jefferson,,Natural Gas,1233.38
+Alaska,Cook,02090,Crude Oil,278.22
+Alaska,Unknown,48029,Crude Oil,1121.07
+Louisiana,Jefferson,02090,Condensate,416.17
+,Harris,48029,Crude Oil,690.02
+Louisiana,Unknown,,Natural Gas,
+Texas,Unknown,,Condensate,446.76
+Louisiana,Jefferson,,Condensate,1881.06
+Alaska,Cook,06037,Condensate,756.32
+Texas,Unknown,22051,Crude Oil,358.69
+Louisiana,Unknown,48029,Condensate,1756.27
+Louisiana,Cook,02090,Natural Gas,1251.63
+Louisiana,Cook,22051,Crude Oil,1020.28
+,,22051,Condensate,1764.46
+Louisiana,Harris,02090,Crude Oil,2057.21
+Alaska,Unknown,02090,Condensate,-227.49
+California,Jefferson,48029,Condensate,368.12
+California,Jefferson,22051,Condensate,688.63
+,Harris,,Condensate,
+,Jefferson,02090,Natural Gas,1113.13
+Louisiana,Cook,,Natural Gas,237.93
+Louisiana,Cook,22051,Condensate,432.45
+,Jefferson,06037,Natural Gas,997.36
+Texas,,,Crude Oil,851.79
+California,Unknown,06037,Crude Oil,2620.07
+Alaska,Cook,06037,Crude Oil,614.84
+California,Cook,06037,Crude Oil,1830.55
+Louisiana,,,Condensate,1331.1
+Alaska,Unknown,,Natural Gas,283.34
+,Harris,48029,Natural Gas,188.13
+Louisiana,Jefferson,48029,Crude Oil,1353.12
+,Unknown,,Condensate,651.09
+,Harris,,Natural Gas,1257.02
+Louisiana,Jefferson,,Natural Gas,1291.34
+Texas,Unknown,,Natural Gas,908.13
+Louisiana,,,Condensate,974.77
+,Jefferson,22051,Crude Oil,83.22
+Texas,Unknown,02090,Crude Oil,1008.41
+Texas,Jefferson,48029,Natural Gas,1325.94
+Alaska,Unknown,,Condensate,1145.12
+California,Cook,,Crude Oil,
+Louisiana,Cook,48029,Natural Gas,1559.09
+Texas,Harris,02090,Condensate,1140.48
+Louisiana,,22051,Natural Gas,1413.12
+Texas,Harris,06037,Crude Oil,1046.87
+Louisiana,Jefferson,,Crude Oil,781.4
+Texas,Cook,48029,Natural Gas,1417.37
+Alaska,Jefferson,,Condensate,1483.27
+Texas,Jefferson,,Condensate,1071.84
+California,Harris,06037,Crude Oil,686.89
+Louisiana,Jefferson,06037,Natural Gas,653.57
+Alaska,Cook,06037,Natural Gas,1157.23
+California,Jefferson,,Natural Gas,206.48
+California,,,Crude Oil,631.02
+California,Unknown,,Crude Oil,
+,Unknown,,Condensate,541.42
+,Unknown,02090,Condensate,1425.79
+Texas,Cook,06037,Natural Gas,-196.3
+Louisiana,Cook,06037,Condensate,836.16
+Alaska,,,Crude Oil,585.25
+Texas,,,Natural Gas,537.89
+Texas,Cook,48029,Condensate,205.66
+Texas,Jefferson,06037,Natural Gas,957.64
+Texas,Unknown,,Crude Oil,944.25
+California,,22051,Natural Gas,1334.9
+,Jefferson,,Natural Gas,996.01
+Louisiana,Harris,06037,Condensate,756.51
+Texas,,06037,Natural Gas,765.38
+,Cook,02090,Condensate,186.06
+,Cook,02090,Condensate,845.66
+Texas,Cook,,Crude Oil,1213.05
+,Harris,22051,Crude Oil,1226.63
+Alaska,Cook,22051,Crude Oil,1230.71
+,Unknown,06037,Crude Oil,1692.74
+Louisiana,,,Condensate,1646.63
+Alaska,Harris,02090,Natural Gas,557.86
+Louisiana,,,Natural Gas,47.53
+Alaska,Harris,48029,Crude Oil,517.36
+Alaska,Cook,48029,Crude Oil,723.55
+Louisiana,Jefferson,48029,Condensate,1152.8
+Louisiana,Cook,,Crude Oil,526.99
+California,Harris,02090,Natural Gas,1744.9
+Texas,Harris,,Crude Oil,1571.66
+Alaska,,22051,Condensate,460.22
+Louisiana,Unknown,,Crude Oil,767.67
+,Unknown,,Natural Gas,210.19
+Louisiana,Cook,,Crude Oil,1020.89
+Alaska,,,Crude Oil,1458.28
+Louisiana,Harris,22051,Crude Oil,825.6
+Texas,,22051,Natural Gas,889.18
+Texas,,02090,Natural Gas,1064.31
+,Harris,02090,Crude Oil,481.82
+,Harris,48029,Natural Gas,
+Alaska,Unknown,06037,Crude Oil,580.26
+Texas,Cook,06037,Natural Gas,647.41
+Texas,,48029,Natural Gas,1405.29
+Louisiana,Cook,22051,Condensate,754.71
+,Cook,,Natural Gas,127.72
+Louisiana,Jefferson,,Crude Oil,1518.08
+Texas,,02090,Condensate,2160.5
+Louisiana,Jefferson,02090,Crude Oil,837.42
+California,Harris,48029,Condensate,1429.45
+Alaska,,06037,Natural Gas,816.15
+Alaska,Unknown,,Natural Gas,986.62
+,Unknown,22051,Condensate,1001.99
+Alaska,Unknown,06037,Condensate,1020.56
+,,48029,Condensate,-302.17
+Louisiana,Harris,,Natural Gas,944.6
+California,Unknown,,Condensate,1388.99
+Louisiana,Harris,02090,Natural Gas,
+Alaska,,06037,Natural Gas,1364.41
+Texas,Unknown,,Crude Oil,1173.35
+,,06037,Natural Gas,1838.89
+Louisiana,Harris,48029,Crude Oil,1374.79
+Texas,,06037,Crude Oil,1055.13
+,Unknown,48029,Natural Gas,432.86
+Alaska,,06037,Natural Gas,1203.98
+,Harris,02090,Natural Gas,764.96
+Louisiana,Unknown,06037,Crude Oil,1010.86
+Texas,Jefferson,02090,Condensate,1301.69
+California,Harris,06037,Condensate,1490.69
+California,,06037,Natural Gas,941.62
+Louisiana,Harris,02090,Crude Oil,1247.69
+Texas,Harris,48029,Natural Gas,1071.88
+Alaska,Harris,02090,Natural Gas,1105.41
+California,,22051,Crude Oil,1509.89
+California,Jefferson,,Crude Oil,1097.46
+,Unknown,,Crude Oil,-30.22
+Alaska,Unknown,02090,Natural Gas,502.03
+California,Harris,,Crude Oil,282.32
+Texas,Harris,,Crude Oil,65.6
+California,Jefferson,02090,Crude Oil,546.6
+Louisiana,Cook,,Crude Oil,453.23
+Texas,Unknown,48029,Condensate,536.47
+California,Cook,,Natural Gas,942.15
+Texas,Harris,22051,Crude Oil,941.56
+,Cook,,Natural Gas,1776.9
+,Harris,06037,Crude Oil,669.25
+Louisiana,,,Condensate,1028.46
+,Jefferson,02090,Crude Oil,564.72
+,Jefferson,02090,Condensate,398.03
+California,Harris,02090,Condensate,420.19
+Texas,,22051,Natural Gas,600.54
+,Cook,02090,Natural Gas,294.79
+Texas,Harris,02090,Crude Oil,1123.36
+Louisiana,Unknown,48029,Natural Gas,985.72
+Louisiana,Harris,06037,Crude Oil,651.19
+Alaska,Harris,06037,Crude Oil,275.42
+California,Harris,48029,Condensate,772.27
+Texas,Unknown,22051,Condensate,1613.9
+Texas,,,Natural Gas,1095.82
+California,,06037,Crude Oil,158.33
+,,48029,Natural Gas,1486.68
+Alaska,Cook,,Condensate,1326.41
+California,Unknown,,Crude Oil,
+Louisiana,Unknown,02090,Crude Oil,662.56
+California,Jefferson,,Condensate,667.9
+Louisiana,Harris,,Crude Oil,162.1
+Louisiana,,,Natural Gas,634.34
+Alaska,Harris,,Condensate,1981.54
+Louisiana,Harris,48029,Crude Oil,475.87
+,Cook,,Condensate,1252.93
+Alaska,,,Crude Oil,1193.63
+Alaska,,,Natural Gas,765.01
+Texas,Jefferson,,Crude Oil,479.8
+,,,Condensate,755.08
+Alaska,Unknown,48029,Natural Gas,1457.47
+,Unknown,,Crude Oil,579
+California,,,Crude Oil,993.89
+,Cook,22051,Natural Gas,1197.87
+California,,48029,Natural Gas,-791.03
+,Unknown,,Condensate,1070.58
+,,06037,Condensate,662.79
+Texas,,06037,Natural Gas,1240.26
+California,,48029,Condensate,-248.92
+Louisiana,,06037,Condensate,258.79
+Louisiana,Unknown,06037,Natural Gas,766.55
+,,22051,Crude Oil,246.96
+Alaska,Harris,48029,Crude Oil,1056.33
+California,Unknown,02090,Condensate,313.06
+Louisiana,Unknown,06037,Natural Gas,
+Texas,Harris,02090,Condensate,901.32
+California,Jefferson,22051,Crude Oil,1128.04
+Louisiana,,02090,Natural Gas,1236.28
+,,48029,Natural Gas,1022.41
+Alaska,,02090,Condensate,776.31
+California,,06037,Crude Oil,916.58
+Texas,Jefferson,02090,Natural Gas,748.94
+,Unknown,,Crude Oil,2297.16
+,,22051,Condensate,702.94
+,Unknown,,Natural Gas,1021.39
+,Harris,48029,Natural Gas,627.72
+California,,,Condensate,853.68
+,,02090,Crude Oil,653.34
+Louisiana,Cook,,Crude Oil,449.48
+Texas,Unknown,06037,Crude Oil,1483.02
+Louisiana,Cook,06037,Natural Gas,1891.23
+Louisiana,Harris,48029,Crude Oil,1182.69
+Alaska,,22051,Condensate,827.17
+California,Harris,22051,Condensate,611.73
+,Jefferson,22051,Condensate,1511.89
+California,Jefferson,48029,Condensate,311.69
+California,Cook,22051,Natural Gas,482.76
+,Cook,48029,Condensate,657.44
+Louisiana,Cook,02090,Crude Oil,197.62
+Alaska,Unknown,06037,Natural Gas,1212.57
+Louisiana,Harris,,Condensate,1347.69
+Louisiana,Cook,48029,Natural Gas,1570.43
+,Harris,02090,Crude Oil,1469.99
+Alaska,Cook,,Crude Oil,617.47
+California,Unknown,22051,Natural Gas,250.82
+Texas,Unknown,06037,Condensate,1225.54
+Texas,,02090,Natural Gas,706.12
+Louisiana,Harris,22051,Condensate,1500.83
+Texas,Cook,06037,Condensate,1182.95
+,,02090,Crude Oil,981.99
+Alaska,Harris,,Crude Oil,827.61
+,Jefferson,22051,Crude Oil,1432.62
+,,22051,Crude Oil,726.51
+California,,02090,Natural Gas,872.92
+Alaska,Harris,22051,Crude Oil,861.4
+Louisiana,Unknown,,Crude Oil,1195.08
+California,Cook,,Crude Oil,1050.88
+Alaska,Unknown,06037,Condensate,
+Louisiana,Cook,48029,Crude Oil,1783.25
+Louisiana,Harris,48029,Crude Oil,1269.7
+California,Harris,02090,Condensate,1420.18
+Louisiana,Jefferson,02090,Crude Oil,-169.09
+Texas,Jefferson,,Natural Gas,145.42
+Louisiana,Jefferson,02090,Natural Gas,739.78
+Texas,Unknown,48029,Natural Gas,661.2
+Texas,,22051,Natural Gas,1042.69
+,Harris,,Crude Oil,1320.64
+Alaska,Jefferson,22051,Condensate,1235.68
+Louisiana,Cook,22051,Natural Gas,857.85
+,,,Natural Gas,1072.47
+Alaska,Harris,02090,Natural Gas,805.23
+Alaska,,02090,Natural Gas,456.38
+,,02090,Crude Oil,651.35
+Texas,Jefferson,,Condensate,789.26
+Texas,,02090,Crude Oil,585.54
+Louisiana,Cook,48029,Crude Oil,827.84
+Louisiana,Unknown,06037,Crude Oil,-627.24
+Texas,Cook,22051,Condensate,670.8
+Louisiana,,06037,Condensate,711.19
+,,02090,Crude Oil,286.94
+Alaska,Jefferson,22051,Natural Gas,366.55
+,,,Crude Oil,810.82
+Texas,Unknown,,Natural Gas,
+Texas,Jefferson,,Natural Gas,1303.78
+Alaska,,48029,Condensate,1373.12
+California,Cook,02090,Crude Oil,830.46
+California,Unknown,02090,Crude Oil,1190.48
+Louisiana,Jefferson,48029,Crude Oil,1579.8
+California,Unknown,,Natural Gas,1790.64
+,Harris,06037,Natural Gas,606.85
+,Harris,06037,Condensate,1167.45
+California,Cook,48029,Crude Oil,239.87
+Alaska,,,Natural Gas,
+Texas,Jefferson,22051,Condensate,
+Louisiana,Harris,22051,Crude Oil,836.6
+,Cook,,Natural Gas,127.72
+,Jefferson,,Natural Gas,797
+Texas,Jefferson,,Crude Oil,273.75
+California,Unknown,48029,Condensate,641.3
+,Jefferson,,Condensate,702.29
+Texas,Jefferson,22051,Natural Gas,430.97
+Texas,Cook,48029,Condensate,606.6
+Louisiana,Cook,22051,Natural Gas,857.85
+Louisiana,Cook,06037,Condensate,1799.53
+California,Harris,48029,Condensate,787.64
+,,48029,Condensate,1019.25
+California,Cook,,Natural Gas,1280.33
+,Unknown,22051,Crude Oil,1450.75
+,Unknown,,Crude Oil,924.13
+,Harris,48029,Crude Oil,940.46
+Alaska,Cook,,Natural Gas,689.12
+Alaska,,02090,Crude Oil,540.9
+Texas,Cook,48029,Natural Gas,329.97
+Texas,,22051,Crude Oil,1656.04
+California,Cook,06037,Condensate,1563.17
+Alaska,,06037,Crude Oil,1149.14
+Louisiana,Harris,06037,Crude Oil,383.71
+California,Cook,06037,Crude Oil,1800.65
+Louisiana,Unknown,22051,Condensate,1231.23
+Texas,Jefferson,06037,Natural Gas,808.39
+,,22051,Natural Gas,1113.36
+,Jefferson,02090,Condensate,1314.59
+Louisiana,Jefferson,48029,Natural Gas,1614.88
+Texas,Harris,06037,Natural Gas,686.28
+Alaska,,48029,Crude Oil,1106.41
+Louisiana,Harris,06037,Natural Gas,1521.27
+Louisiana,Harris,06037,Crude Oil,1112.63
+,,,Condensate,1257.34
+California,Unknown,22051,Condensate,1905.75
+Texas,Harris,48029,Natural Gas,1296.28
+Louisiana,Unknown,06037,Condensate,1249.3
+,Cook,06037,Crude Oil,607.59
+Texas,Unknown,,Natural Gas,1046.58
+California,,22051,Condensate,1024.43
+Louisiana,,06037,Condensate,962.25
+Louisiana,Jefferson,,Crude Oil,141.76
+,Harris,06037,Crude Oil,1324.47
+,Jefferson,06037,Condensate,1098.87
+,Cook,,Crude Oil,854.26
+Louisiana,Unknown,22051,Natural Gas,
+Alaska,Unknown,48029,Condensate,1546.56
+Louisiana,Harris,,Crude Oil,1361.67
+,Harris,,Condensate,1447.6
+Louisiana,,06037,Crude Oil,1786.15
+Louisiana,Harris,48029,Crude Oil,1127.21
+Texas,,06037,Condensate,1483.64
+Texas,Unknown,,Crude Oil,1486.46
+California,Unknown,,Crude Oil,723.15
+California,Unknown,,Crude Oil,1025.69
+Alaska,Harris,22051,Crude Oil,690.91
+,Cook,06037,Crude Oil,630.29
+Texas,Cook,48029,Condensate,869.35
+,Cook,22051,Condensate,2407.99
+Alaska,Jefferson,48029,Natural Gas,1863.78
+Alaska,,,Crude Oil,1411.12
+California,,22051,Crude Oil,514.81
+Louisiana,Cook,,Natural Gas,861.99
+California,Jefferson,,Condensate,1461.51
+California,,22051,Natural Gas,669.55
+Louisiana,Harris,06037,Natural Gas,582.79
+,Unknown,02090,Condensate,1291.19
+California,,22051,Crude Oil,1523.76
+Texas,Harris,48029,Natural Gas,1883.03
+Louisiana,Unknown,22051,Natural Gas,987.33
+,,48029,Natural Gas,1188.94
+California,Cook,06037,Natural Gas,1153.48
+Louisiana,,48029,Natural Gas,1476.7
+,Cook,06037,Condensate,1014.23
+Texas,Cook,06037,Natural Gas,931.6
+,Cook,48029,Crude Oil,1592.91
+Louisiana,Jefferson,48029,Crude Oil,1304.59
+California,Harris,48029,Natural Gas,798.28
+California,,48029,Condensate,
+Alaska,Unknown,02090,Natural Gas,972.13
+Louisiana,Cook,48029,Natural Gas,879.52
+Alaska,Harris,22051,Condensate,1659.31
+Texas,Unknown,02090,Condensate,642.75
+Alaska,Unknown,06037,Natural Gas,964.21
+Louisiana,Unknown,02090,Natural Gas,1298.54
+Texas,Harris,02090,Condensate,581.27
+Louisiana,,,Natural Gas,1500.06
+,,06037,Crude Oil,970.32
+Texas,Unknown,22051,Condensate,1640.11
+Louisiana,Unknown,22051,Crude Oil,1886.3
+California,Harris,02090,Condensate,901.43
+California,Cook,22051,Condensate,137.54
+,Harris,48029,Natural Gas,119.38
+Texas,,22051,Natural Gas,654.29
+California,Jefferson,48029,Condensate,1133.35
+Alaska,Jefferson,,Natural Gas,733.91
+Louisiana,Jefferson,,Crude Oil,1928.96
+,,06037,Condensate,1163.02
+Texas,,22051,Natural Gas,
+Alaska,Jefferson,22051,Natural Gas,1809.1
+Alaska,Unknown,,Crude Oil,1666.04
+Texas,Harris,02090,Condensate,179.88
+California,Harris,48029,Natural Gas,792.65
+,Harris,02090,Condensate,1015.27
+Alaska,Unknown,06037,Condensate,69.26
+Louisiana,,22051,Condensate,912.42
+Louisiana,Unknown,22051,Natural Gas,1104.73
+Alaska,,02090,Natural Gas,1070.01
+Louisiana,Cook,02090,Natural Gas,
+,Jefferson,,Natural Gas,182.65
+,,06037,Crude Oil,1603.06
+Texas,Unknown,48029,Natural Gas,774.36
+California,Unknown,,Natural Gas,1399.03
+Louisiana,Unknown,48029,Natural Gas,
+,Cook,22051,Crude Oil,661.4
+Louisiana,Harris,02090,Crude Oil,1364.17
+Louisiana,Unknown,48029,Condensate,949.18
+California,Cook,02090,Natural Gas,444.11
+Alaska,Jefferson,48029,Natural Gas,661.83
+,Jefferson,22051,Crude Oil,519.94
+California,Unknown,,Condensate,1399.81
+California,Jefferson,02090,Natural Gas,1829.47
+,Harris,48029,Crude Oil,1868.47
+California,Harris,02090,Natural Gas,451.28
+Alaska,Harris,02090,Condensate,1283.74
+California,Unknown,02090,Condensate,626.58
+California,,02090,Natural Gas,2416.75
+Texas,Jefferson,22051,Natural Gas,1995.45
+Texas,Jefferson,06037,Natural Gas,549.51
+Texas,Harris,02090,Condensate,1098.37
+,,,Natural Gas,785.66
+Louisiana,,02090,Condensate,354.74
+Texas,,06037,Natural Gas,1754.01
+,Harris,02090,Crude Oil,1820.2
+Texas,Cook,48029,Natural Gas,854.7
+,Unknown,22051,Condensate,791.89
+Texas,,06037,Natural Gas,1146.48
+Louisiana,Jefferson,48029,Natural Gas,1358.54
+Louisiana,Jefferson,48029,Natural Gas,840.69
+California,Cook,48029,Natural Gas,
+California,Jefferson,06037,Natural Gas,
+California,Harris,,Natural Gas,743.85
+,Jefferson,,Crude Oil,885.63
+Alaska,Unknown,06037,Condensate,962.51
+California,Cook,,Condensate,679.66
+,Unknown,,Natural Gas,1329.85
+California,Cook,06037,Condensate,1873.08
+,Unknown,48029,Condensate,857.54
+,Unknown,,Condensate,2175.89
+,Harris,06037,Natural Gas,1128.77
+Alaska,Jefferson,02090,Crude Oil,320.02
+California,,,Natural Gas,748.08
+,,06037,Natural Gas,989.33
+,Harris,,Crude Oil,5.09
+,Harris,06037,Crude Oil,918.86
+California,Cook,02090,Natural Gas,-115.16
+Alaska,Cook,,Natural Gas,1081.72
+Texas,,22051,Crude Oil,1725.63
+Louisiana,Jefferson,06037,Crude Oil,995.82
+,Cook,06037,Natural Gas,
+,Cook,06037,Natural Gas,1794.15
+Louisiana,,,Condensate,516.63
+,Cook,06037,Natural Gas,1539.22
+California,,22051,Condensate,1230.62
+California,Cook,02090,Natural Gas,802.92
+Alaska,Harris,22051,Natural Gas,2507.36
+Alaska,,06037,Natural Gas,920.67
+,Unknown,48029,Condensate,1484.52
+California,,02090,Condensate,1132.97
+California,Harris,02090,Crude Oil,307.3
+Texas,Harris,,Crude Oil,1329.48
+California,Unknown,02090,Natural Gas,1296.24
+,Unknown,22051,Crude Oil,686.85
+Texas,Harris,,Condensate,232.61
+Texas,Harris,06037,Condensate,732.22
+Texas,,22051,Natural Gas,757.67
+Louisiana,Jefferson,22051,Natural Gas,643.26
+Alaska,Cook,02090,Natural Gas,1602.3
+California,,,Crude Oil,768.47
+Alaska,,06037,Condensate,-286.76
+Texas,Jefferson,22051,Condensate,1628.55
+Texas,Cook,48029,Natural Gas,1020.55
+Texas,Jefferson,06037,Crude Oil,1078.87
+Louisiana,Cook,,Condensate,1063.03
+Louisiana,Unknown,02090,Condensate,1221.62
+Alaska,,02090,Crude Oil,
+,Harris,48029,Natural Gas,
+California,,06037,Crude Oil,584.85
+,Cook,22051,Crude Oil,1166.7
+California,,22051,Crude Oil,1180.49
+,Harris,06037,Crude Oil,-122.84
+Alaska,,02090,Condensate,1148.52
+California,Unknown,22051,Crude Oil,1154.5
+,Unknown,48029,Natural Gas,432.12
+Alaska,Jefferson,02090,Natural Gas,1849.15
+Alaska,,48029,Crude Oil,1482.3
+California,Cook,,Crude Oil,632.46
+,Jefferson,,Condensate,1081.53
+California,Cook,22051,Crude Oil,801.4
+Texas,Cook,48029,Condensate,159.06
+,,22051,Natural Gas,271.66
+Texas,Jefferson,,Crude Oil,2072.52
+Louisiana,,,Condensate,1195.82
+Louisiana,Harris,22051,Crude Oil,1359.33
+California,Jefferson,,Crude Oil,572.4
+,,22051,Crude Oil,1439.09
+Texas,Jefferson,48029,Natural Gas,875.15
+Alaska,Jefferson,02090,Natural Gas,1151.72
+Texas,,02090,Natural Gas,636.34
+Texas,Harris,02090,Condensate,1850.78
+Louisiana,Cook,02090,Condensate,892.33
+Alaska,Unknown,48029,Crude Oil,995.71
+Texas,Cook,06037,Condensate,507.77
+Texas,Jefferson,02090,Crude Oil,1823.18
+Alaska,Harris,,Crude Oil,283.53
+Alaska,Jefferson,06037,Condensate,559.05
+California,Jefferson,22051,Natural Gas,612.85
+Texas,Unknown,06037,Natural Gas,
+,Unknown,02090,Condensate,304.7
+Texas,Cook,06037,Crude Oil,1978.3
+California,Cook,,Crude Oil,2017.5
+,Unknown,06037,Crude Oil,921.29
+California,,02090,Crude Oil,1899.63
+,Cook,,Natural Gas,1893.3
+California,,06037,Natural Gas,1041.35
+Alaska,Harris,06037,Crude Oil,607.75
+California,Jefferson,22051,Condensate,1372.72
+Alaska,Unknown,02090,Natural Gas,1654.36
+California,Harris,22051,Crude Oil,867.84
+Texas,Cook,02090,Crude Oil,780.15
+,Harris,22051,Natural Gas,1001.6
+Louisiana,Jefferson,06037,Natural Gas,1529.01
+California,,,Crude Oil,246.69
+Louisiana,Harris,48029,Natural Gas,1480.29
+Alaska,Harris,48029,Crude Oil,849.56
+Texas,,22051,Crude Oil,328.44
+Texas,Cook,,Condensate,1885.35
+California,Harris,,Natural Gas,2094.25
+California,Unknown,22051,Condensate,1300.47
+Alaska,Harris,02090,Natural Gas,
+Alaska,Jefferson,02090,Crude Oil,437.37
+Texas,Jefferson,02090,Crude Oil,1076.84
+,Jefferson,48029,Crude Oil,1561.52
+Alaska,,,Natural Gas,818.61
+Texas,Harris,02090,Crude Oil,834.81
+,Jefferson,,Condensate,2169.01
+,,06037,Natural Gas,503.98
+California,,06037,Condensate,2270.81
+Louisiana,Unknown,,Condensate,498.08
+Louisiana,Jefferson,06037,Crude Oil,487.27
+Texas,Cook,02090,Crude Oil,
+Texas,Unknown,,Condensate,1330.55
+California,Cook,06037,Crude Oil,737.86
+,Jefferson,06037,Condensate,368.98
+Alaska,Harris,,Natural Gas,815.04
+Texas,,02090,Natural Gas,1002.82
+Louisiana,Unknown,48029,Natural Gas,827.01
+Alaska,,02090,Condensate,1145.5
+,Cook,02090,Natural Gas,1325.11
+Alaska,Unknown,48029,Condensate,1428.29
+,Cook,06037,Crude Oil,
+California,Jefferson,22051,Natural Gas,1595.18
+Louisiana,Unknown,22051,Condensate,1544.31
+Texas,,06037,Natural Gas,1570.43
+,,02090,Natural Gas,588.35
+,Cook,48029,Condensate,1220.81
+,,02090,Natural Gas,
+,Unknown,06037,Natural Gas,527.07
+Texas,Jefferson,06037,Natural Gas,1332.64
+Texas,,22051,Crude Oil,794.14
+Louisiana,,22051,Crude Oil,468.75
+Texas,Harris,22051,Crude Oil,1772.49
+Texas,Jefferson,,Condensate,
+Texas,Harris,,Crude Oil,792.81
+,Harris,22051,Condensate,2088.53
+Louisiana,Jefferson,02090,Crude Oil,638.56
+,Cook,,Crude Oil,609.36
+Alaska,Unknown,02090,Crude Oil,692.02
+Louisiana,,48029,Crude Oil,1192.73
+Louisiana,Jefferson,48029,Condensate,548.04
+California,Harris,02090,Condensate,1027.52
+,Harris,48029,Natural Gas,915.09
+,Jefferson,06037,Crude Oil,1720.9
+California,Unknown,22051,Condensate,702.83
+Louisiana,Unknown,22051,Condensate,1353.86
+Alaska,Unknown,02090,Crude Oil,
+Texas,,06037,Natural Gas,497.24
+Alaska,,22051,Condensate,1569.99
+Alaska,Cook,06037,Crude Oil,711.87
+Texas,Unknown,,Crude Oil,1233.22
+Alaska,,48029,Natural Gas,1228.25
+Texas,,06037,Condensate,1001.25
+Alaska,,06037,Natural Gas,1428.5
+Louisiana,Cook,22051,Natural Gas,1484.77
+California,Unknown,,Natural Gas,1228.52
+Louisiana,Unknown,02090,Crude Oil,80.3
+California,,22051,Crude Oil,1633.42
+Alaska,Cook,22051,Natural Gas,451.01
+,Unknown,06037,Condensate,1536.1
+Louisiana,,02090,Condensate,862.31
+Texas,Jefferson,22051,Condensate,-309.58
+Texas,Jefferson,,Condensate,-76.64
+,Cook,02090,Natural Gas,758.86
+California,Cook,48029,Condensate,302.82
+California,Harris,48029,Crude Oil,1871.19
+Texas,,06037,Condensate,853.52
+Texas,,,Crude Oil,1377.45
+Louisiana,Unknown,22051,Natural Gas,1037.43
+,Cook,22051,Crude Oil,711.7
+Louisiana,Unknown,48029,Crude Oil,1434.33
+Alaska,,06037,Crude Oil,1511.26
+Texas,Unknown,48029,Natural Gas,957.48
+Alaska,Unknown,06037,Natural Gas,1164.28
+,Unknown,48029,Natural Gas,1589.63
+Louisiana,Jefferson,,Condensate,1250.9
+Texas,Cook,06037,Condensate,1484.62
+,Cook,48029,Natural Gas,1485.71
+California,Unknown,22051,Crude Oil,594.76
+,Unknown,06037,Condensate,578.55
+Texas,Cook,22051,Condensate,1775.32
+Texas,,22051,Crude Oil,1444.77
+Texas,Jefferson,,Condensate,
+Louisiana,Cook,48029,Natural Gas,959.69
+Alaska,Cook,48029,Natural Gas,625.46
+,Harris,06037,Crude Oil,929.19
+California,Harris,48029,Crude Oil,982.3
+Louisiana,Unknown,06037,Crude Oil,1436.59
+,,48029,Natural Gas,957.46
+Alaska,Jefferson,22051,Crude Oil,2169.56
+Louisiana,Cook,02090,Condensate,1334.71
+Louisiana,Unknown,06037,Condensate,291.53
+Texas,Jefferson,,Condensate,171.65
+,,,Natural Gas,803.91
+Louisiana,Jefferson,,Natural Gas,615.2
+,Unknown,48029,Crude Oil,488.13
+California,,48029,Natural Gas,800.01
+,,,Crude Oil,1292.07
+Texas,Cook,,Crude Oil,1274.06
+,Harris,48029,Crude Oil,744.94
+Texas,Cook,02090,Condensate,852.25
+Louisiana,,02090,Condensate,1486.95
+,Jefferson,48029,Condensate,1661.08
+California,Harris,22051,Condensate,1082.74
+,Harris,06037,Natural Gas,
+California,Harris,48029,Crude Oil,-195.39
+California,,48029,Condensate,1192.74
+Louisiana,Harris,48029,Crude Oil,1321.19
+,Cook,06037,Condensate,908.3
+Louisiana,Jefferson,02090,Natural Gas,1294.25
+,Cook,48029,Natural Gas,1196.48
+Alaska,Cook,22051,Condensate,684.86
+California,Harris,22051,Natural Gas,644.73
+California,Unknown,,Natural Gas,1180.88
+Texas,Harris,,Crude Oil,1311.47
+,Jefferson,,Natural Gas,
+California,Unknown,,Condensate,776.39
+,Harris,02090,Condensate,1084.69
+Alaska,,,Condensate,971.97
+Alaska,Cook,02090,Crude Oil,1177.51
+California,,02090,Crude Oil,1003.48
+,Harris,22051,Crude Oil,1855.7
+,Cook,48029,Crude Oil,928.57
+Louisiana,Cook,06037,Natural Gas,1483.97
+Alaska,Unknown,22051,Natural Gas,1370.27
+Texas,,,Condensate,1185.7
+California,Unknown,06037,Crude Oil,1338.26
+California,Cook,48029,Condensate,915.51
+Texas,Harris,22051,Condensate,1822.69
+Louisiana,Harris,48029,Natural Gas,826.65
+Alaska,,06037,Crude Oil,1516.9
+Louisiana,Unknown,22051,Condensate,1182.05
+Louisiana,Unknown,,Condensate,-194.15
+California,Cook,48029,Natural Gas,1908.3
+Louisiana,Jefferson,48029,Natural Gas,522.97
+Texas,Cook,06037,Natural Gas,120.97
+California,,06037,Condensate,-163.18
+,,48029,Crude Oil,463.41
+,,22051,Natural Gas,524.13
+California,Cook,,Crude Oil,856.52
+,Jefferson,02090,Natural Gas,1641.69
+Louisiana,Harris,02090,Natural Gas,1355.6
+Louisiana,Jefferson,06037,Condensate,1114
+,Cook,22051,Natural Gas,1604
+,Unknown,,Natural Gas,1974.99
+Alaska,Cook,22051,Crude Oil,371.68
+,,22051,Crude Oil,2009.04
+Louisiana,,02090,Condensate,509.45
+,Unknown,22051,Natural Gas,512.38
+,Harris,02090,Condensate,1146.1
+Louisiana,,,Natural Gas,830.78
+Louisiana,Jefferson,,Condensate,1706.19
+,Jefferson,02090,Crude Oil,682.89
+Texas,Unknown,48029,Natural Gas,561.27
+California,Harris,02090,Condensate,487.54
+Alaska,Cook,22051,Natural Gas,909.91
+Texas,Harris,02090,Crude Oil,352.51
+,Cook,48029,Crude Oil,674.04
+,Cook,02090,Condensate,1275.67
+,Harris,,Condensate,750.19
+California,,22051,Crude Oil,665.56
+Alaska,Unknown,,Crude Oil,1707.32
+Texas,Unknown,06037,Natural Gas,809.59
+,Harris,06037,Natural Gas,656.53
+California,,48029,Natural Gas,-414.72
+Louisiana,Jefferson,,Natural Gas,980.36
+Texas,Unknown,22051,Crude Oil,932.81
+,Harris,22051,Condensate,593.82
+Texas,Cook,06037,Natural Gas,1253.21
+Alaska,Unknown,22051,Natural Gas,1511.22
+Louisiana,Harris,06037,Crude Oil,951.07
+California,Harris,22051,Condensate,655.04
+,Cook,,Natural Gas,1591.3
+Texas,Unknown,,Condensate,1309.84
+California,,48029,Natural Gas,539.17
+,Harris,48029,Natural Gas,447.19
+Texas,,48029,Natural Gas,1439.23
+Texas,Cook,02090,Condensate,731.21
+Texas,Harris,48029,Natural Gas,1300.63
+California,Unknown,,Condensate,601.81
+,,06037,Natural Gas,395.39
+Louisiana,Harris,,Crude Oil,717.94
+,,22051,Condensate,983.72
+Texas,Jefferson,06037,Natural Gas,
+,,48029,Condensate,1014.93
+Alaska,Harris,48029,Condensate,681.75
+,Harris,,Crude Oil,1017.19
+Alaska,,02090,Crude Oil,748.27
+Alaska,Jefferson,06037,Natural Gas,1238.41
+Alaska,,22051,Crude Oil,457.04
+,Cook,06037,Natural Gas,2028.64
+California,Jefferson,02090,Condensate,846.45
+Alaska,Cook,,Crude Oil,1168.68
+Alaska,,02090,Condensate,536.5
+Texas,Harris,22051,Crude Oil,1096.5
+,Harris,48029,Crude Oil,1678.67
+Texas,Unknown,22051,Crude Oil,455.08
+Texas,Harris,48029,Natural Gas,1071.88
+Texas,Harris,,Condensate,947.88
+Alaska,Cook,22051,Crude Oil,1120.5
+California,,02090,Crude Oil,1542.91
+Louisiana,Harris,06037,Natural Gas,795.53
+California,,02090,Condensate,1413.85
+Louisiana,,06037,Condensate,1226.58
+Alaska,,06037,Condensate,776.83
+,Harris,,Crude Oil,828.65
+,Unknown,22051,Condensate,1288.62
+California,Harris,02090,Natural Gas,1231.13
+Alaska,Jefferson,22051,Crude Oil,1387.29
+Alaska,Unknown,,Crude Oil,957.57
+Alaska,Cook,02090,Natural Gas,925.05
+Alaska,,48029,Crude Oil,-36.15
+California,,48029,Natural Gas,712.6
+Texas,Unknown,,Crude Oil,1549.74
+,Harris,48029,Condensate,1271.44
+,,02090,Crude Oil,35.11
+Louisiana,,,Natural Gas,2001.34
+Texas,Unknown,,Condensate,483.13
+Texas,Unknown,,Natural Gas,1110.93
+Texas,,,Natural Gas,1608.23
+Louisiana,,02090,Natural Gas,378.91
+Texas,,02090,Natural Gas,1268.49
+Louisiana,Cook,22051,Crude Oil,736.16
+,Unknown,06037,Natural Gas,1331.28
+,Unknown,48029,Crude Oil,735.54
+Louisiana,,48029,Crude Oil,1404.98
+Alaska,Unknown,48029,Crude Oil,806.85
+Alaska,Harris,02090,Condensate,1132.14
+California,Unknown,,Crude Oil,604.91
+,Cook,48029,Crude Oil,685.47
+Louisiana,,02090,Crude Oil,842.79
+Louisiana,,22051,Condensate,891.54
+California,Cook,02090,Condensate,
+Texas,,02090,Crude Oil,1415.56
+California,Jefferson,06037,Natural Gas,1167.42
+Louisiana,,22051,Natural Gas,1129.57
+,Cook,,Crude Oil,968.69
+Louisiana,,02090,Crude Oil,1535.29
+Alaska,Unknown,22051,Condensate,1295
+California,,48029,Natural Gas,853.96
+,Jefferson,06037,Natural Gas,1145.13
+Alaska,Jefferson,22051,Natural Gas,1123.89
+Alaska,,02090,Condensate,1336.31
+Alaska,,48029,Crude Oil,1092.21
+Texas,Cook,,Condensate,304.55
+California,Unknown,22051,Natural Gas,697.47
+Alaska,Unknown,02090,Natural Gas,1104.33
+Alaska,Harris,02090,Condensate,375.06
+,Unknown,,Condensate,1432.58
+Texas,Harris,22051,Condensate,98.34
+Texas,Harris,06037,Natural Gas,1223.63
+,Cook,22051,Natural Gas,728.26
+California,,06037,Crude Oil,569.72
+,Cook,22051,Condensate,954.05
+,Jefferson,,Natural Gas,737.27
+Louisiana,Harris,48029,Condensate,122.61
+,Cook,22051,Condensate,744.59
+California,Unknown,22051,Crude Oil,613.79
+Louisiana,Jefferson,,Natural Gas,923.75
+Alaska,Unknown,,Crude Oil,927.03
+Louisiana,Unknown,22051,Crude Oil,1075.52
+Texas,Harris,02090,Crude Oil,836.7
+Louisiana,,02090,Natural Gas,1560.42
+,Cook,,Natural Gas,922.81
+Texas,Unknown,,Natural Gas,908.13
+,Jefferson,48029,Natural Gas,1329.83
+Alaska,,,Natural Gas,-212.08
+,Unknown,,Crude Oil,1905.16
+Texas,Unknown,48029,Condensate,377.13
+,Unknown,22051,Natural Gas,249.77
+Texas,Jefferson,22051,Natural Gas,1040.67
+,,02090,Condensate,388.43
+,Jefferson,48029,Crude Oil,1261.52
+Alaska,Jefferson,,Crude Oil,1231.58
+,Cook,48029,Condensate,189.5
+Texas,Jefferson,06037,Condensate,712.81
+Texas,Harris,02090,Condensate,804.68
+Alaska,Harris,02090,Natural Gas,1459.87
+Alaska,Cook,06037,Natural Gas,-65.42
+California,,22051,Crude Oil,262.29
+Louisiana,,06037,Natural Gas,453.45
+,Harris,48029,Condensate,802.2
+California,,02090,Condensate,646.55
+,Harris,48029,Natural Gas,1397.59
+Alaska,Cook,,Natural Gas,1647.91
+Louisiana,Cook,48029,Condensate,1341.85
+,Harris,,Condensate,965.12
+,Jefferson,22051,Crude Oil,1046.47
+California,,,Crude Oil,1454
+,Jefferson,,Condensate,1084.26
+Texas,Unknown,,Condensate,836.67
+Louisiana,Harris,02090,Condensate,814.78
+Alaska,Harris,02090,Crude Oil,
+Alaska,Harris,,Condensate,
+,,02090,Condensate,664.07
+California,Harris,06037,Condensate,1089.56
+Alaska,,,Natural Gas,1015.37
+,Cook,,Crude Oil,1194.58
+Alaska,Harris,,Natural Gas,47.33
+Texas,,06037,Natural Gas,1393.66
+Alaska,Unknown,02090,Crude Oil,1334.81
+,Harris,,Natural Gas,190.22
+,Jefferson,06037,Natural Gas,1064.73
+California,,,Natural Gas,679.84
+California,Harris,02090,Condensate,970.37
+Texas,Cook,06037,Condensate,543.1
+Louisiana,,22051,Crude Oil,
+,,02090,Crude Oil,754.06
+,Harris,,Condensate,243.85
+Texas,Jefferson,48029,Condensate,810.86
+Alaska,Cook,06037,Natural Gas,1611.4
+,Jefferson,,Crude Oil,98.3
+California,Cook,,Natural Gas,1131.95
+,,,Crude Oil,1205.34
+Louisiana,Unknown,48029,Natural Gas,-426.47
+,Unknown,06037,Crude Oil,1589.96
+,,02090,Crude Oil,931.02
+Texas,Unknown,22051,Crude Oil,1494.33
+California,Cook,48029,Natural Gas,569.54
+California,Cook,02090,Natural Gas,1072.66
+California,Harris,48029,Crude Oil,974.47
+Louisiana,,06037,Crude Oil,657.37
+Louisiana,Unknown,22051,Crude Oil,1496.48
+Alaska,Cook,,Condensate,1987.2
+Louisiana,Unknown,,Natural Gas,-31.94
+Louisiana,Harris,06037,Crude Oil,836.66
+Alaska,Unknown,02090,Condensate,1352.59
+Alaska,,48029,Crude Oil,1883.51
+Texas,Harris,02090,Condensate,440.62
+Alaska,Harris,22051,Natural Gas,712.11
+,Harris,06037,Crude Oil,1531.89
+Texas,,22051,Natural Gas,865.85
+California,Jefferson,06037,Crude Oil,137.16
+,Harris,06037,Natural Gas,172.91
+Louisiana,Unknown,06037,Crude Oil,1128.48
+Louisiana,Cook,02090,Condensate,797.16
+,Unknown,,Natural Gas,1369.41
+,Unknown,48029,Crude Oil,141.41
+Louisiana,,02090,Condensate,434.22
+California,Unknown,,Condensate,1101.11
+Louisiana,Jefferson,48029,Crude Oil,966.51
+Alaska,Harris,,Crude Oil,1298.97
+Texas,,48029,Condensate,872.27
+Alaska,Cook,,Crude Oil,1640.17
+Texas,Unknown,06037,Natural Gas,1242.35
+,,22051,Condensate,888.76
+Louisiana,,02090,Condensate,1305.19
+Texas,Unknown,,Condensate,1194.67
+,,22051,Condensate,
+,Cook,02090,Natural Gas,1142.78
+Texas,,48029,Natural Gas,1270.87
+Louisiana,,,Crude Oil,2079.87
+California,Harris,06037,Crude Oil,1090.05
+Texas,Jefferson,,Natural Gas,429.38
+California,Harris,06037,Natural Gas,835.25
+Louisiana,Cook,22051,Crude Oil,436.88
+,Cook,48029,Condensate,1999.62
+,Jefferson,,Natural Gas,279.18
+Alaska,Jefferson,06037,Natural Gas,637.62
+Alaska,Cook,02090,Condensate,1395.83
+California,Cook,06037,Crude Oil,829.35
+California,Jefferson,,Natural Gas,1177.44
+,Unknown,06037,Natural Gas,463.97
+California,Jefferson,02090,Condensate,1201.47
+California,Jefferson,,Natural Gas,811.44
+Louisiana,Cook,22051,Condensate,17.98
+,Harris,02090,Natural Gas,609.52
+,Harris,48029,Condensate,1097.45
+,Cook,48029,Crude Oil,431.78
+,Jefferson,,Condensate,1353.24
+Texas,Cook,48029,Condensate,
+Texas,Cook,22051,Crude Oil,482.73
+Louisiana,Cook,22051,Crude Oil,798.96
+Louisiana,,48029,Crude Oil,1485.05
+Louisiana,,,Condensate,1793.66
+California,Harris,22051,Natural Gas,1156.82
+Alaska,Cook,02090,Condensate,
+Alaska,Unknown,48029,Crude Oil,1535.98
+California,,22051,Condensate,1030.95
+,Jefferson,,Natural Gas,1188.55
+Louisiana,Cook,48029,Crude Oil,704.35
+Alaska,Cook,22051,Crude Oil,660.92
+Alaska,,02090,Natural Gas,617.13
+California,Jefferson,06037,Crude Oil,642.39
+Louisiana,Cook,02090,Natural Gas,710.32
+California,,48029,Natural Gas,874.01
+California,Jefferson,,Condensate,1137.46
+Texas,Jefferson,,Crude Oil,585.45
+California,Jefferson,06037,Natural Gas,1452.53
+Louisiana,Cook,48029,Crude Oil,1652.7
+Texas,Harris,06037,Natural Gas,776.53
+California,,22051,Natural Gas,1111.65
+,Harris,02090,Natural Gas,1379.47
+,Cook,06037,Natural Gas,1142.03
+Louisiana,,02090,Natural Gas,
+Alaska,Cook,22051,Condensate,434.48
+Texas,,06037,Crude Oil,271.71
+,Unknown,,Natural Gas,1926.71
+Texas,Jefferson,06037,Natural Gas,351.58
+Louisiana,Jefferson,,Condensate,1104.96
+Louisiana,,22051,Condensate,1254.33
+California,Cook,06037,Condensate,891.95
+,Harris,06037,Condensate,1369.7
+Texas,,06037,Natural Gas,
+California,,06037,Natural Gas,723.98
+,,06037,Crude Oil,1041.46
+Louisiana,Harris,06037,Condensate,380.68
+California,Jefferson,,Natural Gas,1333.35
+California,Jefferson,06037,Condensate,1362.18
+,Cook,48029,Natural Gas,884.99
+Alaska,Cook,02090,Natural Gas,894.47
+Alaska,Harris,06037,Natural Gas,1405.43
+Louisiana,Jefferson,02090,Condensate,809.06
+Louisiana,Unknown,,Natural Gas,1534.96
+California,Jefferson,,Crude Oil,1301.74
+,Cook,,Crude Oil,554.81
+Texas,Cook,48029,Crude Oil,1068.09
+California,,,Condensate,10.4
+Texas,Unknown,48029,Natural Gas,1143.85
+California,Jefferson,48029,Crude Oil,-535.58
+Texas,Harris,06037,Crude Oil,1258.62
+,Jefferson,22051,Condensate,294.6
+,Unknown,06037,Crude Oil,560.53
+Texas,Jefferson,06037,Crude Oil,2067.81
+Louisiana,Jefferson,06037,Natural Gas,1144.51
+Louisiana,Harris,22051,Natural Gas,1445.26
+Louisiana,Harris,22051,Crude Oil,974.92
+,Jefferson,02090,Crude Oil,517.72
+Alaska,Harris,,Condensate,165.83
+Texas,Harris,22051,Crude Oil,1660.38
+California,,48029,Crude Oil,1087.59
+Alaska,,22051,Natural Gas,1786.08
+Louisiana,Cook,48029,Natural Gas,174.2
+,Unknown,48029,Natural Gas,1261.26
+Texas,,,Crude Oil,
+California,Harris,48029,Natural Gas,
+Louisiana,Cook,06037,Natural Gas,722.28
+Alaska,Unknown,02090,Condensate,1244.46
+California,Cook,02090,Natural Gas,1883.75
+,,02090,Natural Gas,1022.3
+California,,02090,Condensate,398.6
+Louisiana,Unknown,02090,Natural Gas,563.1
+California,Cook,,Crude Oil,1464.87
+Alaska,,22051,Crude Oil,1030.51
+Louisiana,Unknown,22051,Crude Oil,554.87
+Alaska,,06037,Natural Gas,1156.56
+California,Unknown,06037,Crude Oil,1338.24
+,Cook,48029,Condensate,1185.87
+California,Harris,48029,Condensate,1694.1
+California,Harris,22051,Condensate,1152.78
+Alaska,Unknown,48029,Natural Gas,942.29
+Alaska,Cook,,Condensate,1047.14
+Louisiana,Unknown,,Natural Gas,1050.52
+,Harris,,Crude Oil,1487.86
+California,,02090,Condensate,708.56
+Alaska,Cook,22051,Crude Oil,945.66
+,,22051,Condensate,54.14
+,,48029,Crude Oil,627.62
+Louisiana,Harris,02090,Crude Oil,952.26
+Alaska,,22051,Natural Gas,918.35
+Louisiana,Harris,22051,Condensate,1100.51
+Texas,Jefferson,02090,Condensate,
+,Unknown,06037,Crude Oil,921.82
+Louisiana,Harris,02090,Natural Gas,667.78
+Texas,Unknown,,Natural Gas,1356.59
+,Cook,22051,Crude Oil,1953.65
+California,Jefferson,,Crude Oil,238.79
+Texas,,22051,Natural Gas,1260.75
+California,Cook,,Crude Oil,2018.08
+,Jefferson,48029,Condensate,1006.99
+California,,48029,Crude Oil,1075.61
+California,,,Crude Oil,2045.79
+California,Jefferson,22051,Natural Gas,
+,,22051,Condensate,
+Alaska,Harris,,Condensate,1260.85
+Louisiana,,48029,Natural Gas,1059.34
+California,Unknown,02090,Condensate,309.28
+California,Cook,,Natural Gas,1595.37
+,Harris,22051,Condensate,1060.79
+California,Harris,06037,Condensate,140.93
+Louisiana,Cook,,Natural Gas,938.84
+Texas,Harris,,Natural Gas,424.49
+Texas,Cook,02090,Natural Gas,460.1
+Louisiana,Unknown,22051,Natural Gas,1484.05
+Texas,Unknown,,Condensate,493.49
+,Cook,02090,Condensate,1413.12
+Texas,,02090,Crude Oil,976.97
+,,48029,Natural Gas,2027.24
+Louisiana,,06037,Crude Oil,1129.94
+Alaska,Cook,,Crude Oil,1010.93
+Texas,Unknown,48029,Crude Oil,524.04
+California,Cook,06037,Natural Gas,483.76
+Texas,Jefferson,02090,Crude Oil,-157.23
+California,,,Natural Gas,-164.72
+Louisiana,Jefferson,02090,Condensate,665.93
+,,,Natural Gas,
+California,Jefferson,02090,Natural Gas,135.45
+California,Cook,,Natural Gas,1940.4
+Louisiana,,,Natural Gas,141.41
+,Cook,48029,Crude Oil,1009.54
+California,Jefferson,22051,Crude Oil,1281.21
+Texas,,22051,Condensate,
+California,Harris,02090,Crude Oil,1654.57
+Alaska,Jefferson,22051,Natural Gas,467.88
+Alaska,Harris,48029,Crude Oil,1729.83
+,,,Condensate,817.95
+,Harris,22051,Crude Oil,2236.63
+Alaska,,06037,Natural Gas,1126.85
+Alaska,Unknown,22051,Crude Oil,1247.09
+Alaska,Unknown,48029,Natural Gas,317.43
+Louisiana,Cook,,Natural Gas,1364.66
+Texas,Unknown,06037,Crude Oil,557.75
+California,Jefferson,22051,Condensate,92.23
+Texas,Unknown,,Crude Oil,1210.54
+California,Unknown,22051,Condensate,691.82
+,Unknown,,Condensate,651.09
+Louisiana,Jefferson,06037,Condensate,1710.79
+Texas,Jefferson,22051,Crude Oil,69.48
+Alaska,Harris,48029,Natural Gas,991.84
+Texas,Cook,48029,Crude Oil,1133.62
+,Harris,22051,Condensate,1223.1
+Alaska,Unknown,48029,Condensate,208.35
+Louisiana,Cook,06037,Crude Oil,1580.17
+Texas,Unknown,06037,Crude Oil,1415.82
+Louisiana,Jefferson,02090,Condensate,1294.56
+Louisiana,Jefferson,22051,Crude Oil,531.44
+Alaska,Jefferson,,Condensate,
+Louisiana,Cook,22051,Crude Oil,2218.62
+Alaska,Unknown,,Natural Gas,773.41
+,Cook,02090,Natural Gas,2021.51
+California,Harris,,Crude Oil,1124.69
+Louisiana,,02090,Crude Oil,1023.61
+Alaska,Harris,,Crude Oil,1478.62
+Texas,Unknown,,Crude Oil,63.01
+Texas,Unknown,48029,Crude Oil,1088.89
+Louisiana,,22051,Condensate,417.6
+Louisiana,,48029,Condensate,700.17
+Alaska,,48029,Condensate,1506.11
+California,,02090,Crude Oil,952.79
+,Harris,22051,Condensate,883.45
+,Cook,02090,Crude Oil,1500.47
+California,Jefferson,02090,Natural Gas,921.48
+Louisiana,Jefferson,,Natural Gas,1192.14
+California,Unknown,06037,Crude Oil,390.41
+California,Jefferson,22051,Natural Gas,691.68
+,Unknown,02090,Condensate,319.97
+Alaska,Harris,,Natural Gas,587.76
+,,06037,Crude Oil,869.15
+,Unknown,22051,Natural Gas,1611.97
+,,02090,Crude Oil,763.57
+Alaska,Harris,06037,Condensate,
+Alaska,Jefferson,48029,Natural Gas,1612.74
+Louisiana,,22051,Condensate,-281.98
+Alaska,,02090,Natural Gas,1299.17
+,Cook,06037,Condensate,674.1
+Alaska,,22051,Condensate,1642.02
+Alaska,,02090,Crude Oil,1115.27
+,Harris,48029,Condensate,48.97
+California,Jefferson,06037,Natural Gas,360.79
+Texas,Harris,48029,Natural Gas,812.03
+Alaska,,06037,Natural Gas,1187.58
+California,Cook,06037,Natural Gas,46.19
+California,Unknown,02090,Crude Oil,632.28
+Texas,Harris,02090,Natural Gas,1091.72
+Alaska,,48029,Condensate,1076.67
+Texas,Harris,48029,Crude Oil,922.23
+Louisiana,Harris,02090,Crude Oil,374.96
+Texas,,06037,Condensate,1070.46
+,,48029,Natural Gas,1903.8
+,Cook,22051,Crude Oil,1209.86
+Texas,Cook,22051,Crude Oil,883.15
+,Harris,,Crude Oil,1158.03
+Louisiana,Unknown,,Condensate,1850.21
+Alaska,,02090,Natural Gas,370.47
+Alaska,Harris,22051,Crude Oil,293.24
+,Harris,22051,Condensate,1711.88
+Alaska,Jefferson,,Condensate,798.12
+Louisiana,Unknown,02090,Crude Oil,149.99
+Texas,,02090,Condensate,862.74
+Alaska,,,Natural Gas,1650.8
+Alaska,Harris,06037,Condensate,777.67
+Texas,Jefferson,02090,Condensate,1769.17
+Louisiana,Harris,,Crude Oil,
+,Unknown,22051,Condensate,1094.12
+,,02090,Natural Gas,-35.59
+Alaska,Harris,22051,Natural Gas,625.08
+California,,02090,Natural Gas,930.1
+Louisiana,Cook,06037,Natural Gas,1243.09
+Louisiana,Unknown,,Crude Oil,381.67
+Alaska,Unknown,06037,Condensate,619.06
+Texas,,06037,Condensate,457.88
