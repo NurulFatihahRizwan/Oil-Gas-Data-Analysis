@@ -48,5 +48,4 @@ This project demonstrates the ability to clean, analyze, and visualize industry 
 
 
 
-Bachelor of Information Technology (Hons)
-Universiti Teknologi PETRONAS (UTP)
+
